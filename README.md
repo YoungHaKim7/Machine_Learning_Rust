@@ -1,3 +1,17 @@
+# brew install libtorch
+
+- pytorch 실행전 이거 먼저 실행할 것 !!!
+
+```
+export LIBTORCH='/opt/homebrew/Cellar/pytorch/1.13.1'
+
+export LD_LIBRARY_PATH=$LIBTORCH:$LD_LIBRARY_PATH
+
+
+echo $LD_LIBRARY_PATH
+/opt/homebrew/Cellar/pytorch/1.13.1:
+```
+
 # Rust Artificial Intelligence (The Simple Way)
 
 https://youtu.be/StMP7g-0wK4

@@ -8,6 +8,10 @@ https://github.com/guillaume-be/rust-bert
 
 <hr>
 
+- Rust-bert Docs
+
+https://docs.rs/crate/rust-bert/latest
+
 # Setup(macOS 기준)
 
 ```
