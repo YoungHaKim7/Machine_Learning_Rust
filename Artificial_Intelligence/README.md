@@ -6,9 +6,15 @@ https://docs.rs/rust-bert/latest/rust_bert/gpt_neo/
 
 - The following pre-trained checkpoints are readily available:
 
-125M parameters model (GptNeoModelResources::GPT_NEO_125M)
-1.3B parameters model (GptNeoModelResources::GPT_NEO_1_3B)
-2.7B parameters model (GptNeoModelResources::GPT_NEO_2_7B)
+## 125M parameters model (GptNeoModelResources::GPT_NEO_125M)
+
+<br>
+
+## 1.3B parameters model (GptNeoModelResources::GPT_NEO_1_3B)
+
+## 2.7B parameters model (GptNeoModelResources::GPT_NEO_2_7B)
+
+<br>
 
 <hr>
 
