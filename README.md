@@ -1,4 +1,4 @@
-# brew install libtorch
+# brew install libtorch(macOS)
 
 - pytorch 실행전 이거 먼저 실행할 것 !!!
 
@@ -17,6 +17,12 @@ echo $LD_LIBRARY_PATH
 https://youtu.be/StMP7g-0wK4
 
 https://github.com/guillaume-be/rust-bert
+
+<br>
+
+# The AI community building the future.
+
+https://huggingface.co/
 
 <br>
 
