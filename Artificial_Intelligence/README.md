@@ -1,3 +1,17 @@
+# Module rust_bert::gpt_neo
+
+https://docs.rs/rust-bert/latest/rust_bert/gpt_neo/
+
+<br>
+
+- The following pre-trained checkpoints are readily available:
+
+125M parameters model (GptNeoModelResources::GPT_NEO_125M)
+1.3B parameters model (GptNeoModelResources::GPT_NEO_1_3B)
+2.7B parameters model (GptNeoModelResources::GPT_NEO_2_7B)
+
+<hr>
+
 # Rust Artificial Intelligence (The Simple Way)
 
 https://youtu.be/StMP7g-0wK4
