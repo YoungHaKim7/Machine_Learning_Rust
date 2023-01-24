@@ -1,3 +1,13 @@
+# Rust Artificial Intelligence (The Simple Way)
+
+https://youtu.be/StMP7g-0wK4
+
+https://github.com/guillaume-be/rust-bert
+
+<br>
+
+<hr>
+
 # How to Build a Machine Learning Model in Rust
 
 https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
@@ -24,6 +34,7 @@ https://github.com/chrisbra/unicode.vim
 :UnicodeCache    - Create cache file
 
 ```
+
 <br>
 
 - Normal mode commands:
@@ -42,7 +53,7 @@ unicode#UnicodeName()   - Identifies unicode character (by value)
 
 <hr>
 
-# Natural Language Processing for Rust 
+# Natural Language Processing for Rust
 
 https://github.com/lexi-sh/rs-natural
 
@@ -50,7 +61,7 @@ https://github.com/lexi-sh/rs-natural
 
 <hr>
 
-# This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀 
+# This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
 
 https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
 
@@ -60,19 +71,11 @@ https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
 
 # Here is an example of a simple machine learning program written in the Rust programming language:
 
--  GPT3
+- GPT3
 
 https://chat.openai.com/chat
 
-
 This program sets up a game context and creates a new MainState struct to hold the game's state. It then runs the game loop, which handles events and updates the game state accordingly. The MainState struct and its associated methods and the event handling methods can be customized to implement the specific game logic and mechanics.
-
-
-
-
-
-
-
 
 ```
 
@@ -108,7 +111,6 @@ This program creates some random data and uses the KMeansClassifier type from th
 ```
 
 - 은근히 코드 안 맞는다. ㅋ
-
 
 https://athemathmo.github.io/rusty-machine/doc/rusty_machine/index.html
 
