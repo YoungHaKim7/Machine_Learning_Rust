@@ -1,3 +1,38 @@
+# Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
+
+- rust-bert[![crates.io](https://img.shields.io/crates/v/rust-bert.svg)](https://crates.io/crates/rust-bert)![Crates.io](https://img.shields.io/crates/l/rust-bert)![druidDownloads](https://img.shields.io/crates/d/rust-bert.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/guillaume-be/rust-bert.svg)
+
+  - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+
+  - https://github.com/guillaume-be/rust-bert
+
+  - https://crates.io/crates/rust-bert
+
+# Rust MachineLearning
+
+- linfa[![crates.io](https://img.shields.io/crates/v/linfa.svg)](https://crates.io/crates/linfa)![Crates.io](https://img.shields.io/crates/l/linfa)![druidDownloads](https://img.shields.io/crates/d/linfa.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/rust-ml/linfa.svg)
+
+  - A Rust machine learning framework.
+
+  - https://github.com/rust-ml/linfa
+
+  - https://crates.io/crates/linfa
+
+- ndarray[![crates.io](https://img.shields.io/crates/v/ndarray.svg)](https://crates.io/crates/ndarray)![Crates.io](https://img.shields.io/crates/l/ndarray)![druidDownloads](https://img.shields.io/crates/d/ndarray.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/rust-ndarray/ndarray.svg)
+
+  - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+
+  - https://github.com/rust-ndarray/ndarray
+
+  - https://crates.io/crates/ndarray
+
+<br>
+
+<hr>
+
 # brew install libtorch(macOS)
 
 - pytorch 실행전 이거 먼저 실행할 것 !!!
