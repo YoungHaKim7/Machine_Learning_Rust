@@ -31,6 +31,18 @@
 
 <br>
 
+# Dalai - Automatically install, run, and play with LLaMA on your computer
+
+- What is Dalai?
+
+It lets you one-click install LLaMA on your machine. No need to bother building cpp files, cloning GitHub, and downloading files and stuff. Everything is automated.
+Dalai is a tool in the Large Language Model Tools category of a tech stack.
+Dalai is an open source tool with GitHub stars and GitHub forks. Here’s a link to Dalai's open source repository on GitHub
+
+https://cocktailpeanut.github.io/dalai/#/
+
+https://stackshare.io/dalai?utm_source=weekly_digest&amp;utm_medium=email&amp;utm_campaign=03292023&amp;utm_content=new_tool
+
 # The Pile is a large, diverse, open source language modelling data set
 
 https://github.com/EleutherAI/the-pile
