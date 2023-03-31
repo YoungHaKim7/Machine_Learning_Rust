@@ -43,6 +43,10 @@ https://cocktailpeanut.github.io/dalai/#/
 
 https://stackshare.io/dalai?utm_source=weekly_digest&amp;utm_medium=email&amp;utm_campaign=03292023&amp;utm_content=new_tool
 
+- 한국에 누군가 올린 게시판 글
+
+https://www.ddengle.com/board_free/19129866
+
 # The Pile is a large, diverse, open source language modelling data set
 
 https://github.com/EleutherAI/the-pile
