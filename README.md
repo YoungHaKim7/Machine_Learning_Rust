@@ -31,6 +31,10 @@
 
 <br>
 
+# The Pile is a large, diverse, open source language modelling data set
+
+https://github.com/EleutherAI/the-pile
+
 <hr>
 
 # brew install libtorch(macOS)
