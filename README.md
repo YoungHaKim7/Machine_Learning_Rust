@@ -29,6 +29,10 @@
 
   - https://crates.io/crates/ndarray
 
+# dfdx v0.11.0: ergonomic GPU accelerated deep learning ENTIRELY in rust!
+
+https://coreylowman.github.io/2023/03/15/release-0.11.0.html
+
 <br>
 
 # Dalai - Automatically install, run, and play with LLaMA on your computer
