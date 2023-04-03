@@ -1,3 +1,7 @@
+# Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+
+https://github.com/rustformers/llama-rs
+
 # Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
 
 - rust-bert[![crates.io](https://img.shields.io/crates/v/rust-bert.svg)](https://crates.io/crates/rust-bert)![Crates.io](https://img.shields.io/crates/l/rust-bert)![druidDownloads](https://img.shields.io/crates/d/rust-bert.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
