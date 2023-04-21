@@ -1,3 +1,9 @@
+# Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
+
+- C언어로 Tesorflow/Pythorch 라이브러리 안 쓰고 신경망 구축하기 꼭 해보자❤
+
+https://youtu.be/w8yWXqWQYmU
+
 # Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
 https://github.com/rustformers/llama-rs
