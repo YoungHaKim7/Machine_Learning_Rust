@@ -4,6 +4,15 @@
 
 https://youtu.be/w8yWXqWQYmU
 
+<hr>
+
+# 신경망 수학 그림으로 다 이해하기 - 복잡한 신경망도 다 이해된다 !!! 최고Why Neural Networks can learn (almost) anything | Emergent Garden
+
+https://youtu.be/0QczhVg5HaI
+
+
+<hr>
+
 # Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
 https://github.com/rustformers/llama-rs
