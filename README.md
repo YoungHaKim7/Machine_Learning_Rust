@@ -15,7 +15,10 @@ https://youtu.be/0QczhVg5HaI
 
 # Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
-https://github.com/rustformers/llama-rs
+- https://github.com/rustformers/llama-rs
+
+- Inference Llama 2 in one file of pure Rust 🦀 
+  - https://github.com/gaxler/llama2.rs
 
 # Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
 
