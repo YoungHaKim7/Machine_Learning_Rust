@@ -16,6 +16,7 @@ https://youtu.be/0QczhVg5HaI
 # Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
 - https://github.com/rustformers/llama-rs
+  - 이게 맞는주소? https://github.com/rustformers/llm
 
 - Inference Llama 2 in one file of pure Rust 🦀 
   - https://github.com/gaxler/llama2.rs
