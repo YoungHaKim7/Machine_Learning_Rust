@@ -1,3 +1,9 @@
+# AlphaGo - The Movie | Full award-winning documentary
+
+https://youtu.be/WXuK6gekU1Y?si=D9ZPN7Lxc6icN2g9
+
+<hr>
+
 # Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
 
 - C언어로 Tesorflow/Pythorch 라이브러리 안 쓰고 신경망 구축하기 꼭 해보자❤
