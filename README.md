@@ -1,6 +1,9 @@
 # JS강의 No Black Box Machine Learning Course – Learn Without Libraries
 https://youtu.be/vDDjtwQDw2k?si=exYH6L2aHAYEqGTJ
 
+- Machine Learning & Neural Networks without Libraries – No Black Box Course
+  - https://youtu.be/3wwiOSxDAmg?si=FndfDStC4CRGoDWM
+
 <hr>
 
 # AlphaGo - The Movie | Full award-winning documentary
