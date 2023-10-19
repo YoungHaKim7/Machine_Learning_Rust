@@ -1,3 +1,9 @@
+# m1 macOS pytorch install
+
+https://pytorch.org/get-started/locally/
+
+<hr>
+
 # JS강의 No Black Box Machine Learning Course – Learn Without Libraries
 https://youtu.be/vDDjtwQDw2k?si=exYH6L2aHAYEqGTJ
 
