@@ -7,8 +7,10 @@ https://pytorch.org/get-started/locally/
 # h2oGPT - 완전한 오픈소스 GPT (github.com/h2oai)
 
 - https://github.com/h2oai/h2ogpt
+  - 한글로 된 뉴스 기사‘노트북으로도 뚝딱’··· 로컬 시스템용 LLM 도구 5종 따라잡기 https://www.ciokorea.com/news/305929?page=0,0
 - https://news.hada.io/topic?id=9105
 
+- 노트북으로도 뚝딱’··· 로컬 시스템용 LLM 도구 5종 따라잡기 (원문보기:https://www.ciokorea.com/news/305929?page=0,0#csidx306f4ef0cca5c53bd4ca4c68ff36480 )
 
 # llama2를 파인 튜닝 하고 있는 사람들
 
