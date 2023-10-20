@@ -4,6 +4,12 @@ https://pytorch.org/get-started/locally/
 
 <hr>
 
+# h2oGPT - 완전한 오픈소스 GPT (github.com/h2oai)
+
+- https://github.com/h2oai/h2ogpt
+- https://news.hada.io/topic?id=9105
+
+
 # llama2를 파인 튜닝 하고 있는 사람들
 
 - https://news.hada.io/topic?id=10898&utm_source=discord&utm_medium=bot&utm_campaign=1480
