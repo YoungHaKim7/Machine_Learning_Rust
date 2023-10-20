@@ -4,6 +4,11 @@ https://pytorch.org/get-started/locally/
 
 <hr>
 
+# llama2를 파인 튜닝 하고 있는 사람들
+
+- https://news.hada.io/topic?id=10898&utm_source=discord&utm_medium=bot&utm_campaign=1480
+  - https://economiceco.tistory.com/18790
+
 # JS강의 No Black Box Machine Learning Course – Learn Without Libraries
 https://youtu.be/vDDjtwQDw2k?si=exYH6L2aHAYEqGTJ
 
