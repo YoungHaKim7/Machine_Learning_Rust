@@ -1,4 +1,12 @@
 # LLM -> LMM으로 패러다임 전환 중~~
+- 231012_LLM은 옛말...이미지까지 학습한 'LMM' 뜬다
+  - https://www.aitimes.com/news/articleView.html?idxno=154291
+- 231014_모든 DB는 머지않아 벡터 데이터베이스가 될 것이다 (nextword.substack.com)
+  - https://news.hada.io/topic?id=11263&utm_source=discord&utm_medium=bot&utm_campaign=1480
+  - https://nextword.substack.com/p/vector-database-is-not-a-separate
+- 231014_Llama 2 Everywhere (L2E) - 스탠드얼론, 바이너리 포터블, 부팅 가능한 Llama 2 (github.com/trholding)
+  - https://news.hada.io/topic?id=11285&utm_source=discord&utm_medium=bot&utm_campaign=1480
+  - https://github.com/trholding/llama2.c
 
 
 <br>
