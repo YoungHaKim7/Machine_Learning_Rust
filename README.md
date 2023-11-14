@@ -21,6 +21,7 @@
 - https://news.hada.io/topic?id=11847&utm_source=discord&utm_medium=bot&utm_campaign=1480
   - https://www.secondstate.io/articles/fast-llm-inference/
   - https://github.com/second-state/WasmEdge-WASINN-examples/tree/master/wasmedge-ggml-llama-interactive
+  - https://huggingface.co/TheBloke
 
 <hr>
 
