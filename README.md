@@ -1,3 +1,10 @@
+# LLM -> LMM으로 패러다임 전환 중~~
+
+
+<br>
+
+<hr>
+
 # m1 macOS pytorch install
 
 https://pytorch.org/get-started/locally/
