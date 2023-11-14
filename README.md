@@ -3,7 +3,8 @@
   - https://www.aitimes.com/news/articleView.html?idxno=154291
   - 대형언어모델(LLM)'에 이어 앞으로는 '대형멀티모달모델(LMM)
   - LLM(Large Language Models)
-  - LMM(Large Multi Models)
+  - Multimodality and Large Multimodal Models (LMMs)
+    - https://huyenchip.com/2023/10/10/multimodal.html
 - 231014_모든 DB는 머지않아 벡터 데이터베이스가 될 것이다 (nextword.substack.com)
   - https://news.hada.io/topic?id=11263&utm_source=discord&utm_medium=bot&utm_campaign=1480
   - https://nextword.substack.com/p/vector-database-is-not-a-separate
