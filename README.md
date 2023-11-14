@@ -17,6 +17,12 @@
 
 <hr>
 
+# Rust+WASM으로 이기종 Edge에서 빠르고 포터블한 Llama2 추론 실행하기 (secondstate.io)
+- https://news.hada.io/topic?id=11847&utm_source=discord&utm_medium=bot&utm_campaign=1480
+  - https://www.secondstate.io/articles/fast-llm-inference/
+
+<hr>
+
 # m1 macOS pytorch install
 
 https://pytorch.org/get-started/locally/
