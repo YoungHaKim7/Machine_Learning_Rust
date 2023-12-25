@@ -1,0 +1,10 @@
+[package]
+name = "a04_candle_using_nn"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+candle-core = { git = "https://github.com/huggingface/candle.git", version = "0.3.2" }
+candle-nn = { git = "https://github.com/huggingface/candle.git", version = "0.3.2" }
