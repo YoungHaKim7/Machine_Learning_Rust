@@ -41,9 +41,13 @@ Created symlink /etc/systemd/system/default.target.wants/ollama.service → /etc
 
 ```
 
-// 이게 8x7b모델
+// 이게 8x7b모델 28G
 ollama run mixtral
 
+// 8G정도 
+ollama run llama2:13b 
+
+// 4G정ㄷ 
 ollama run mistral
 ```
 
