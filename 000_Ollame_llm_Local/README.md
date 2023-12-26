@@ -40,6 +40,10 @@ Created symlink /etc/systemd/system/default.target.wants/ollama.service → /etc
 # ```ollama run mistral```
 
 ```
+
+// 이게 8x7b모델
+ollama run mixtral
+
 ollama run mistral
 ```
 
