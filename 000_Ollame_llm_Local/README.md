@@ -42,3 +42,6 @@ Created symlink /etc/systemd/system/default.target.wants/ollama.service → /etc
 ```
 ollama run mistral
 ```
+
+- GN⁺: Mistral AI, Llama 2 70B 모델보다 뛰어난 Mixtral 8x7B 모델 공개 (mistral.ai)
+  - https://news.hada.io/topic?id=12296&utm_source=weekly&utm_medium=email&utm_campaign=202351
