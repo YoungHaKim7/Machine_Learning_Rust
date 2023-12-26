@@ -36,3 +36,9 @@ curl https://ollama.ai/install.sh | sh
 Created symlink /etc/systemd/system/default.target.wants/ollama.service → /etc/systemd/system/ollama.service.
 >>> NVIDIA GPU installed.
 ```
+
+# ```ollama run mistral```
+
+```
+ollama run mistral
+```
