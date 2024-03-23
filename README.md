@@ -1,3 +1,13 @@
+# MachineLearning_Tutorial
+- Introduction to Deep Learning
+  - https://github.com/sjchoi86/intro-dl
+
+- Lecture notes on Bayesian deep learning
+  - https://github.com/sjchoi86/bayes-nn
+
+
+<hr>
+
 # LLM -> LMM으로 패러다임 전환 중~~
 - 231012_LLM은 옛말...이미지까지 학습한 'LMM' 뜬다
   - https://www.aitimes.com/news/articleView.html?idxno=154291
