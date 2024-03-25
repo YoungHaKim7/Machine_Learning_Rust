@@ -25,6 +25,22 @@
 
 <br>
 
+# Jupyter 노트북 러스트로 빠르게 돌리기
+
+- https://racum.blog/articles/rust-jupyter/
+
+- First, you need to download and build the kernel itself via cargo:
+
+```bash
+$ cargo install --locked evcxr_jupyter
+```
+
+- Then, use its binary to automatically install it inside Jupyter:
+
+```bash
+$ evcxr_jupyter --install
+```
+
 <hr>
 
 # Rust+WASM으로 이기종 Edge에서 빠르고 포터블한 Llama2 추론 실행하기 (secondstate.io)
