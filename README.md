@@ -1,3 +1,20 @@
+# 역시 갓 c언어 
+- **[llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름](<https://news.hada.io/topic?id=14658&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드  
+- 이제 멀티 GPU 트레이닝을 bfloat16으로 Flash Attention과 함께 수행   
+- ~3000 라인의 C/CUDA 코드로 구현되었으며, 전반적으로 PyTorch보다 7% 정도까지 빠름   
+- 지금까지 작업한 내용들   
+  -  혼합 정밀도 훈련(bfloat16)  
+  - 정규화된...
+
+# 파이토치 bye bye 👋  존나게 구린 파이토치 ㅋㅋㅋ 그동안 참고 쓰느라 힘들었다 ㅋㅋ 더럽고 치사해서 더 공부해서 러스트로 만들어 보자 ㅋㅋ
+- https://news.hada.io/topic?id=14228
+
+# 바로 해봐야지
+- https://github.com/karpathy/llm.c/discussions/344
+
+<hr>
+
 # MachineLearning_Tutorial
 - Introduction to Deep Learning
   - https://github.com/sjchoi86/intro-dl
