@@ -4,6 +4,11 @@
 - Matrix Multiplication is AI - What 1.58b LLMs Mean for NVIDIA | Finxter
   - https://youtu.be/isOcqRuJkAo?si=zlzqt5gaTdc7y3LX 
 
+||Blackwell|Hopper|
+|-|-|-|
+|Supported Tensor Core precisions|FP64, TF32, BF16, FP16, FP8, INT8, FP6, FP4|FP64, TF32, BF16, FP16, FP8, INT8|
+|Supported CUDA* Core precisions|FP64, FP32, FP16, BF16|FP64, FP32, FP16, BF16, INT8|
+
 <hr>
 
 # NVIDIA는 16-bit Float(FP16/BF16) 부동 소수점에 최적화 되어있어서
