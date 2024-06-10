@@ -1,3 +1,10 @@
+# 1bit에 집중하자 NVIDIA도 이제 끝이네
+- Will NVIDIA Survive The Era of 1-Bit LLMs? | Finxter
+  - https://youtu.be/HGbTAV8RoZQ?si=X6qZbabhOkAOj8Xr 
+
+
+<hr>
+
 # 역시 갓 c언어 
 - **[llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름](<https://news.hada.io/topic?id=14658&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
 - Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드  
