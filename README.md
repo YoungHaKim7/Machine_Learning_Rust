@@ -2,6 +2,25 @@
 - Will NVIDIA Survive The Era of 1-Bit LLMs? | Finxter
   - https://youtu.be/HGbTAV8RoZQ?si=X6qZbabhOkAOj8Xr 
 
+<hr>
+
+# NVIDIA는 16-bit Float(FP16/BF16) 부동 소수점에 최적화 되어있어서
+
+- 완전히 다른 방식으로 접근하고 있다.
+  - Develop optimized kernels for 1-bit operations
+  - Use FPGAs or ASICs for 1-bit operations
+# BitNet b1.58(This Work). vs 16-bit Float(FP16/BF16)
+- 9min 46s 참고
+
+# Why BitNet b1.58?
+- Each cell only three values: 
+  - { -1, 0 ,1 }
+  - How many bits are needed to differentiate three equally likely states? 
+  - Log2(3) = 1.58
+
+- https://youtu.be/HGbTAV8RoZQ?si=0Bu_ovLzuTI9SRWR
+
+<hr>
 
 <hr>
 
