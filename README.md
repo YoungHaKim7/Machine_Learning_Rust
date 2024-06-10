@@ -1,6 +1,8 @@
 # 1bit에 집중하자 NVIDIA도 이제 끝이네
 - Will NVIDIA Survive The Era of 1-Bit LLMs? | Finxter
   - https://youtu.be/HGbTAV8RoZQ?si=X6qZbabhOkAOj8Xr 
+- Matrix Multiplication is AI - What 1.58b LLMs Mean for NVIDIA | Finxter
+  - https://youtu.be/isOcqRuJkAo?si=zlzqt5gaTdc7y3LX 
 
 <hr>
 
