@@ -16,7 +16,7 @@
 - Each cell only three values: 
   - { -1, 0 ,1 }
   - How many bits are needed to differentiate three equally likely states? 
-  - Log2(3) = 1.58
+## $$Log_2(3) = 1.58$$ ##
 
 - https://youtu.be/HGbTAV8RoZQ?si=0Bu_ovLzuTI9SRWR
 
