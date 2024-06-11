@@ -9,6 +9,9 @@
 |Supported Tensor Core precisions|FP64, TF32, BF16, FP16, FP8, INT8, FP6, FP4|FP64, TF32, BF16, FP16, FP8, INT8|
 |Supported CUDA* Core precisions|FP64, FP32, FP16, BF16|FP64, FP32, FP16, BF16, INT8|
 
+- Nvidia Blackwell Deep Dive (GB 200 NVL72) $125B Revenue Projection
+  - https://youtu.be/gxRGPTv82AY?si=AplrKMKzFXO5qOOw
+
 <hr>
 
 # NVIDIA는 16-bit Float(FP16/BF16) 부동 소수점에 최적화 되어있어서
