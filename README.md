@@ -34,7 +34,7 @@
 
 # 초보자를 위한 Vector Embeddings 가이드 (timescale.com)
 - https://news.hada.io/topic?id=15094&utm_source=weekly&utm_medium=email&utm_campaign=202423
-26P by xguru 24.05.31.
+  - 26P by xguru 24.05.31.
 - 벡터 임베딩의 종류
   - 단어 임베딩: NLP에서 단어를 표현하며, 단어 간의 의미적 관계를 캡처함. 언어 번역, 단어 유사성, 감정 분석 등에 사용됨.
   - 문장 임베딩: 문장의 의미와 문맥을 캡처하며, 정보 검색, 텍스트 분류, 감정 분석 등에 사용됨.
