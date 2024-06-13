@@ -69,7 +69,10 @@
   - 벡터 데이터베이스: 벡터 데이터를 효율적으로 저장하고 검색할 수 있는 데이터베이스 사용.
   - PostgreSQL: 벡터 데이터를 다른 관계형 데이터와 함께 저장할 수 있음. pgvector 확장을 사용하여 벡터를 저장하고 쿼리할 수 있음.
 
-
+- 그 외에 좋은글
+  - [임베딩(Embeddings)은 무엇이고 왜 중요한가](https://news.hada.io/topic?id=11593)
+  - [머신러닝 분야의 임베딩(Embedding)에 대한 상세한 가이드](https://news.hada.io/topic?id=9316)
+  - [AI에 호기심 있는 앱 개발자를 위한 좋은 시작점, Embeddings](https://news.hada.io/topic?id=14380)
 
 <hr>
 
