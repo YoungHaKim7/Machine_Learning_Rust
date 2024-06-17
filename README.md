@@ -14,6 +14,9 @@
 
 <hr>
 
+# NVIDIA칩 자세히 알아보기(240617)
+- https://youtu.be/0v-W7TM6NCE?si=eVgokdiNLwQA0Tob
+
 # NVIDIA는 16-bit Float(FP16/BF16) 부동 소수점에 최적화 되어있어서
 
 - 완전히 다른 방식으로 접근하고 있다.
