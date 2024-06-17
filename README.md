@@ -30,6 +30,9 @@
 
 - https://youtu.be/HGbTAV8RoZQ?si=0Bu_ovLzuTI9SRWR
 
+# GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터 (arxiv.org)
+- https://news.hada.io/topic?id=13573
+
 <hr>
 
 # 초보자를 위한 Vector Embeddings 가이드 (timescale.com)
