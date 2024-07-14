@@ -1,3 +1,9 @@
+# (C++코드로 머신러닝 잘 설명됨.)Snake learns with NEUROEVOLUTION (implementing NEAT from scratch in C++) |Tech With Nikola
+- https://youtu.be/lAjcH-hCusg?si=eeEWJpy3SacoQYAb
+
+
+<hr>
+
 # 1bit에 집중하자 NVIDIA도 이제 끝이네
 - Will NVIDIA Survive The Era of 1-Bit LLMs? | Finxter
   - https://youtu.be/HGbTAV8RoZQ?si=X6qZbabhOkAOj8Xr 
