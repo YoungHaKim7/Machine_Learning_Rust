@@ -1,5 +1,6 @@
 # (C++코드로 머신러닝 잘 설명됨.)Snake learns with NEUROEVOLUTION (implementing NEAT from scratch in C++) |Tech With Nikola
 - https://youtu.be/lAjcH-hCusg?si=eeEWJpy3SacoQYAb
+  - 역시 핵심은 Sigmoid 함수와 Bias를 활용하는것!
 
 
 <hr>
