@@ -1,3 +1,10 @@
+# 최신뉴스
+- (24.7.29.) NVIDIA GPU 주도권 무너진다…? | 세계 최강 반도체 설계의 전설 짐 켈러… HBM 없는 AI 칩 출시 (Tenstorrent Wormhole) | 안될공학 - IT 테크 신기술
+  - https://youtu.be/6NuK0y27DLY?si=NGXuB6io80X8tNhQ
+
+
+<hr>
+
 # (C++코드로 머신러닝 잘 설명됨.)Snake learns with NEUROEVOLUTION (implementing NEAT from scratch in C++) |Tech With Nikola
 - https://youtu.be/lAjcH-hCusg?si=eeEWJpy3SacoQYAb
   - 역시 핵심은 Sigmoid 함수와 Bias를 활용하는것!
