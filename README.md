@@ -12,15 +12,16 @@
 
 # ollama 쓸만한거
 
-// 4.7GB
+```bash
+# 4.7GB
 ollama run llama3.1
 
-// 4.7GB
+# 4.7GB
 ollama run mixtral:8x7b
 
-// 79GB
+# 79GB
 ollama run mixtral:8x22b
-
+```
 
 # (C++코드로 머신러닝 잘 설명됨.)Snake learns with NEUROEVOLUTION (implementing NEAT from scratch in C++) |Tech With Nikola
 - https://youtu.be/lAjcH-hCusg?si=eeEWJpy3SacoQYAb
