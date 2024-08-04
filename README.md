@@ -19,6 +19,9 @@ ollama run llama3.1
 # 26GB
 ollama run mixtral:8x7b
 
+# 39GB
+ollama run llama3.1:70b
+
 # 79GB
 ollama run mixtral:8x22b
 ```
