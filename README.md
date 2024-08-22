@@ -1,4 +1,10 @@
+# link
+- test
+
+<hr>
+
 # 최신뉴스
+
 - (24.7.29.) NVIDIA GPU 주도권 무너진다…? | 세계 최강 반도체 설계의 전설 짐 켈러… HBM 없는 AI 칩 출시 (Tenstorrent Wormhole) | 안될공학 - IT 테크 신기술
   - https://youtu.be/6NuK0y27DLY?si=NGXuB6io80X8tNhQ
 
@@ -142,6 +148,9 @@ ollama run mixtral:8x22b
 
 - Lecture notes on Bayesian deep learning
   - https://github.com/sjchoi86/bayes-nn
+
+- 파이토치 구리지만 아직 기득권이니 공부하자( PyTorch for Deep Learning & Machine Learning – Full Course | freeCodeCamp.org
+  -  https://youtu.be/V_xro1bcAuA?si=ZVKXLB8Q6kwugdm2
 
 
 <hr>
