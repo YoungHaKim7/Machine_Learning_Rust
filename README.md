@@ -470,4 +470,10 @@ https://athemathmo.github.io/rusty-machine/doc/rusty_machine/index.html
 https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 
 <br>
+
 # Machine_Learning_Rust
+
+# 머신러닝기초
+- Machine Learning Course for Beginners | freeCodeCamp.org
+  - https://youtu.be/NWONeJKn6kc?si=wmh6EmpSKH1ZIzXH
+
