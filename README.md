@@ -478,3 +478,6 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 - Machine Learning Course for Beginners | freeCodeCamp.org
   - https://youtu.be/NWONeJKn6kc?si=wmh6EmpSKH1ZIzXH
 
+- Understanding NVIDIA GPU Hardware as a CUDA C Programmer | Episode 2: GPU Compute Architecture | 0Mean1Sigma
+  - https://youtu.be/1Goq8Yc3dfo?si=KgztF66DmIwP7qa9
+
