@@ -6,6 +6,8 @@
 
 # 최신뉴스
 
+- [(241001)Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
+
 - (24.7.29.) NVIDIA GPU 주도권 무너진다…? | 세계 최강 반도체 설계의 전설 짐 켈러… HBM 없는 AI 칩 출시 (Tenstorrent Wormhole) | 안될공학 - IT 테크 신기술
   - https://youtu.be/6NuK0y27DLY?si=NGXuB6io80X8tNhQ
 
