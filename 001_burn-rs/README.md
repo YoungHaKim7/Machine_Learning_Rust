@@ -1,3 +1,8 @@
+# ebook(burn)
+- https://burn.dev/burn-book/
+
+<hr />
+
 # a comprehensive deep learning framework(burn-rs)
 
 This library strives to serve as a comprehensive deep learning framework, offering exceptional flexibility and written in Rust. Our objective is to cater to both researchers and practitioners by simplifying the process of experimenting, training, and deploying models.
