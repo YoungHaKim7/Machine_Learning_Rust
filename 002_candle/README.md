@@ -15,6 +15,9 @@ huggingface
 
 <hr />
 
+# cnn Install
+- https://developer.nvidia.com/cudnn
+
 # Minimalist ML framework for Rust  
 
 https://github.com/huggingface/candle
