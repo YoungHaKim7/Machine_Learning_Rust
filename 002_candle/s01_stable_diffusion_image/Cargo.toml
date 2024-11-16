@@ -1,0 +1,17 @@
+[package]
+name = "s01_stable_diffusion_image"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.93"
+candle-core = { version = "0.8.0", features = ["cuda", "mkl"] }
+candle-examples = "0.8.0"
+candle-transformers = "0.8.0"
+clap = { version = "4.5.21", features = ["derive"] }
+hf-hub = "0.3.2"
+image = "0.25.5"
+stable-diffusion = "0.1.9"
+tokenizers = "0.20.3"
+tracing-chrome = "0.7.2"
+tracing-subscriber = "0.3.18"
