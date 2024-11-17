@@ -483,3 +483,12 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
   - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning 🚀
   - https://github.com/EthicalML/awesome-production-machine-learning 
 
+
+<hr>
+
+- Rust code들 모음
+  - 최신코드 많음 
+    - https://github.com/e-tornike/best-of-ml-rust
+  - 좋긴 한데 옛날꺼...
+    - [This repository accompanies Practical Machine Learning with Rust by Joydeep Bhattacharjee (Apress, 2020).https://github.com/Apress/practical-machine-learning-w-rust](https://github.com/Apress/practical-machine-learning-w-rust)
+    - https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
