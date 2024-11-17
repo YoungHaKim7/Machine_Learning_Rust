@@ -479,4 +479,7 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 
 - Understanding NVIDIA GPU Hardware as a CUDA C Programmer | Episode 2: GPU Compute Architecture | 0Mean1Sigma
   - https://youtu.be/1Goq8Yc3dfo?si=KgztF66DmIwP7qa9
+- Awesome Production Machine Learning
+  - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning 🚀
+  - https://github.com/EthicalML/awesome-production-machine-learning 
 
