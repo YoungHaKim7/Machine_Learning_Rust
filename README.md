@@ -361,7 +361,7 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 
 # Rust Machine Learning Book
 
-https://rust-ml.github.io/book/chapter_1.html
+- https://rust-ml.github.io/book/
 
 <br>
 
