@@ -1,6 +1,0 @@
-[package]
-name = "a01_vals"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
