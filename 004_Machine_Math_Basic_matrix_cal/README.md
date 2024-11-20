@@ -2,6 +2,8 @@
 
 - [수학기초 영어로 잘 정리됨github](https://github.com/ossu/math)
 - [LaTex문법 잘정리됨. 공식 넣을때 굿](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+  - [깃허브 공식 문서 잘 정리됨.](https://docs.github.com/ko/enterprise-cloud@latest/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+  - [https://en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 <hr />
 
@@ -10,7 +12,11 @@
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
   - 교재 github https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko
 
-- 매트릭스 표기는 (rows x columns)
+- 매트릭스 표기는
+
+```
+rows \times columns
+```
 
 <hr />
 
