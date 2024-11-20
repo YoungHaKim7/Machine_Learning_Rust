@@ -29,6 +29,17 @@
 0 & 0 & 0 & 4 \\ \end{pmatrix}
 ```
 
+# identity matrix(단위 행렬) 
+- 대각 요소가 1
+
+```math
+ A = \begin{pmatrix}1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1 \\ \end{pmatrix}
+```
+
+
 <hr />
 
 # Machine_Learning_Rust
