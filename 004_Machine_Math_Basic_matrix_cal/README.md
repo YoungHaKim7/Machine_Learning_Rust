@@ -10,6 +10,8 @@
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
   - 교재 github https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko
 
+- 매트릭스 표기는 (rows x columns)
+
 <hr />
 
 # Square matrix(정방 행렬)
