@@ -1,6 +1,7 @@
 # link
 - 머신러닝 Tutorial
   - [머신러닝기초](#머신러닝기초)
+    - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
 
 <hr>
 
