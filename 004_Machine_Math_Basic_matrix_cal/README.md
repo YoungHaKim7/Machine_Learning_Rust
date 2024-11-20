@@ -14,7 +14,7 @@
 
 - 매트릭스 표기는
 
-```
+```math
 rows \times columns
 ```
 
