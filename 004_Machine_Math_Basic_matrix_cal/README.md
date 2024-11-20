@@ -5,6 +5,8 @@
   - [깃허브 공식 문서 잘 정리됨.](https://docs.github.com/ko/enterprise-cloud@latest/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
   - [https://en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
+- [C언어 매트릭스 이해하기](https://github.com/YoungHaKim7/Algorithm_Training/tree/main/05_C_CPP_2D_3D_Algorithm)
+
 <hr />
 
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea
