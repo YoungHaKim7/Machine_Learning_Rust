@@ -7,9 +7,15 @@
 
 - [C언어 매트릭스 이해하기](https://github.com/YoungHaKim7/Algorithm_Training/tree/main/05_C_CPP_2D_3D_Algorithm)
 
+- 행렬matrix기초지식
+  - [행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea](#행렬-기본-연산--선형대수학의-행렬방법-파트-1--matlab-korea)
+
+- Vector벡터 그림으로 이해
+  - [Why is the determinant like that? | broke math student](https://youtu.be/Sv7VseMsOQc?si=kooGvwD3DKEPokGB) 
+
 <hr />
 
-# 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea
+# 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
 
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
   - 교재 github https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko
@@ -25,7 +31,7 @@ rows \times columns
 
 <hr />
 
-# Square matrix(정방 행렬)
+# Square matrix(정방 행렬)[|🔝|](#link)
 
 ```math
  A = \begin{pmatrix}3 & 9 & 3 & 3 \\
@@ -55,7 +61,7 @@ rows \times columns
 
 <hr />
 
-# Machine_Learning_Rust
+# Machine_Learning_Rust[|🔝|](#link)
 
 # 머신러닝기초
 - Machine Learning Course for Beginners | freeCodeCamp.org
