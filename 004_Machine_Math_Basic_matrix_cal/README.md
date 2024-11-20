@@ -20,6 +20,9 @@
 rows \times columns
 ```
 
+- [matrix매트릭스 곱셈 그림으로 이해하기( Visual Understanding: Matrix Multiplication for Dummies | Harvie](https://youtu.be/TwliA2BL_9g?si=eeTHLXPQ5xPaMfA1)
+ 
+
 <hr />
 
 # Square matrix(정방 행렬)
