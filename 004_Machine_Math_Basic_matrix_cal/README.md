@@ -12,6 +12,7 @@
 
 - Vector벡터 그림으로 이해
   - [Why is the determinant like that? | broke math student](https://youtu.be/Sv7VseMsOQc?si=kooGvwD3DKEPokGB) 
+  - [그림으로 벡터부터 원리를 잘 보여줌 굿ALL of calculus 3 in 8 minutes. | gregorian calendar](https://youtu.be/5kwz7ajxfyA?si=sIcX0AWHznfGkYlU)
 
 <hr />
 
