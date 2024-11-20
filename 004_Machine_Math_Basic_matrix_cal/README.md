@@ -1,11 +1,27 @@
 # link
 
+- [수학기초 영어로 잘 정리됨github](https://github.com/ossu/math)
+- [LaTex문법 잘정리됨. 공식 넣을때 굿](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
 <hr />
 
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea
 
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
   - 교재 github https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko
+
+<hr />
+
+# Square matrix(정방 행렬)
+
+$ A = 
+ \begin{pmatrix}
+  3 & 9 & 3 & 3 \\
+  5 & 4 & 6 & 8 \\
+  3 & 9 & 3 & 3 \\
+  1 & 2 & 3 & 4 \\
+ \end{pmatrix}
+$
 
 <hr />
 
