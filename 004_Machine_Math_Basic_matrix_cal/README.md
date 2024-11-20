@@ -14,7 +14,13 @@
 
 # Square matrix(정방 행렬)
 
-$ A = \begin{pmatrix}3 & 9 & 3 & 3 \\ 5 & 4 & 6 & 8 \\ 3 & 9 & 3 & 3 \\ 1 & 2 & 3 & 4 \\ \end{pmatrix} $
+```math
+ A = \begin{pmatrix}3 & 9 & 3 & 3 \\
+5 & 4 & 6 & 8 \\
+3 & 9 & 3 & 3 \\
+1 & 2 & 3 & 4 \\
+\end{pmatrix} $
+```
 
 <hr />
 
