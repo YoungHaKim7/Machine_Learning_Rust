@@ -21,6 +21,8 @@
     - 4:57 Coordinate Transformations and the Jacobian
     - 6:02 Vector Fields, Scalar Fields, and Line Integrals
       - https://youtu.be/5kwz7ajxfyA?si=3eqhsvXLRnXHf1JW
+      - [비슷한거ALL OF Calculus 2 in 5 minutes | FuzzyPenguinAMS](https://youtu.be/M9W5Fn0_WAM?si=SJpAtgSQU306xFL1)
+
 
 <hr />
 
