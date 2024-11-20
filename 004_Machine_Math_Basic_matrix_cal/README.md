@@ -19,7 +19,16 @@
 5 & 4 & 6 & 8 \\
 3 & 9 & 3 & 3 \\
 1 & 2 & 3 & 4 \\
-\end{pmatrix} $
+\end{pmatrix}
+```
+
+# diagonal matrix(대각 행렬)
+```math
+ A = \begin{pmatrix}3 & 0 & 0 & 0 \\
+0 & 4 & 0 & 0 \\
+0 & 0 & 2 & 0 \\
+0 & 0 & 0 & 4 \\
+\end{pmatrix}
 ```
 
 <hr />
