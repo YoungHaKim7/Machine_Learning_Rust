@@ -13,6 +13,14 @@
 - Vector벡터 그림으로 이해
   - [Why is the determinant like that? | broke math student](https://youtu.be/Sv7VseMsOQc?si=kooGvwD3DKEPokGB) 
   - [그림으로 벡터부터 원리를 잘 보여줌 굿ALL of calculus 3 in 8 minutes. | gregorian calendar](https://youtu.be/5kwz7ajxfyA?si=sIcX0AWHznfGkYlU)
+    - 0:17 3D Space, Vectors, and Surfaces
+    - 0:44 Vector Multiplication
+    - 2:13 Limits and Derivatives of multivariable functions
+    - 3:02 Double Integrals
+    - 3:44 Triple Integrals and 3D coordinate systems
+    - 4:57 Coordinate Transformations and the Jacobian
+    - 6:02 Vector Fields, Scalar Fields, and Line Integrals
+      - https://youtu.be/5kwz7ajxfyA?si=3eqhsvXLRnXHf1JW
 
 <hr />
 
