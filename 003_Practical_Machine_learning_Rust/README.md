@@ -6,13 +6,18 @@
 - https://users.rust-lang.org/t/guard-lines-from-rustfmt/102702/2
 
 ```rs
-#[rustfmt::skip]
 let s = [
     1, 2, 3, //
     4, 5, 6, //
     7, 8, 9, //
 ];
 
+
+let matrix_2d = [
+    [1, 2, 3], //
+    [4, 5, 6], //
+    [7, 8, 9], //
+];
 
 #[rustfmt::skip]
 let matrix_2d = [
