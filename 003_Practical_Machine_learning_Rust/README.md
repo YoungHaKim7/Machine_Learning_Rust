@@ -32,3 +32,30 @@ let mat_mul = [
     [3]
 ];
 ```
+
+- 2d matrix sample
+
+```rs
+fn main() {
+    let matrix_2d = [
+        [1, 2, 3], //
+        [4, 5, 6], //
+        [7, 8, 9], //
+    ];
+    for mat_2d in matrix_2d {
+        println!("{:?}", mat_2d);
+    }
+    println!();
+}
+```
+
+- Result
+  
+```bash
+
+$ cargo r
+
+[1, 2, 3]
+[4, 5, 6]
+[7, 8, 9]
+```
