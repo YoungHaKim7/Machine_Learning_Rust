@@ -1,2 +1,15 @@
 # Practical Machine Learning with Rust by Joydeep Bhattacharjee (Apress, 2020
 - [This repository accompanies Practical Machine Learning with Rust by Joydeep Bhattacharjee (Apress, 2020).https://github.com/Apress/practical-machine-learning-w-rust](https://github.com/Apress/practical-machine-learning-w-rust)
+
+# Rust array(`#[rustfmt::skip]`)
+
+- https://users.rust-lang.org/t/guard-lines-from-rustfmt/102702/2
+
+```rs
+#[rustfmt::skip]
+let s = [
+    1, 2, 3, //
+    4, 5, 6, //
+    7, 8, 9, //
+];
+```
