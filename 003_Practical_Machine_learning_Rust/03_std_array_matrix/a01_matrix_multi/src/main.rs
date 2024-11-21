@@ -13,8 +13,18 @@ fn matrix_multiply(matrix: [[i32; 3]; 3], mul: [[i32; 1]; 3]) -> [[i32; 1]; 3] {
 }
 
 fn main() {
-    let matrix_2d = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
-    let mat_mul = [[1], [2], [3]];
+    #[rustfmt::skip]
+    let matrix_2d = [
+        [1, 2, 3],
+        [4, 5, 6],
+        [7, 8, 9]
+    ];
+    #[rustfmt::skip]
+    let mat_mul = [
+        [1],
+        [2],
+        [3]
+    ];
 
     let mat_result = matrix_multiply(matrix_2d, mat_mul);
 
