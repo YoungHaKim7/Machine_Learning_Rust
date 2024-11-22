@@ -6,6 +6,7 @@
 <hr>
 
 # 최신뉴스
+- [241119Google DeepMind has a new way to look inside an AI’s “mind”구글 딥마인드, AI ‘마음’ 들여다볼 혁신적 돌파구 마련](https://www.technologyreview.kr/%EA%B5%AC%EA%B8%80-%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C-ai-%EB%A7%88%EC%9D%8C-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%BC-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%8C%ED%8C%8C%EA%B5%AC-%EB%A7%88%EB%A0%A8/)
 
 - [(241001)Should you use Rust in LLM based tools for performance?](https://bosun.ai/posts/rust-for-genai-performance/)
 
