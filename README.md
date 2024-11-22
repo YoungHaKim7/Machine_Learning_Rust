@@ -64,7 +64,7 @@
 
 # dfdx: shape checked deep learning in rust
 
-- dfdx(https://img.shields.io/crates/v/dfdx.svg)](https://crates.io/crates/dfdx)![Crates.io](https://img.shields.io/crates/l/dfdx)![druidDownloads](https://img.shields.io/crates/d/dfdx.svg)<a href="https://github.com/coreylowman/dfdx"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![star](https://img.shields.io/github/stars/coreylowman/dfdx.svg)
+- dfdx[![crates.io](https://img.shields.io/crates/v/dfdx.svg)](https://crates.io/crates/dfdx)![Crates.io](https://img.shields.io/crates/l/dfdx)![druidDownloads](https://img.shields.io/crates/d/dfdx.svg)<a href="https://github.com/coreylowman/dfdx"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![star](https://img.shields.io/github/stars/coreylowman/dfdx.svg)
 
 - https://github.com/coreylowman/dfdx
 
