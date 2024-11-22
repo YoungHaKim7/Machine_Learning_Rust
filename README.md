@@ -15,6 +15,7 @@
 - [(240308)메타는 준비되어 있다 | LLM의 한계, JEPA | Endplan : AI 인사이트](https://youtu.be/ZxDTa_IuDuM?si=rYyaW1DBkBwBFXW3)
 
 - [(240301)GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터 (arxiv.org)](https://news.hada.io/topic?id=13573)
+- [(240131)생성형 AI 시대, 꽃피우는 ‘벡터 DB’](http://www.itdaily.kr/news/articleView.html?idxno=220008)
 
 <hr>
 
