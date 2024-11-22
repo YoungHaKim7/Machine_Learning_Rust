@@ -4,7 +4,7 @@
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
 
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
-- [벡터 DB의 개념잡기 & LLM의 정의]()
+- [벡터 DB의 개념잡기 & LLM의 정의](#벡터-db의-개념잡기--llm의-정의)
 
 <hr>
 
