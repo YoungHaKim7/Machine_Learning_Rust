@@ -64,7 +64,7 @@
 
 # dfdx: shape checked deep learning in rust
 
-- dfdx<img src="https://camo.githubusercontent.com/4831f22f8ade35c7fd51d8abeea003e2f5377bf92d32054f762b92ae053e4e4f/68747470733a2f2f62616467656e2e6e65742f62616467652f435544412f70617373696e672f677265656e" alt="CUDA" data-canonical-src="https://badgen.net/badge/CUDA/passing/green" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/94e6b588f74dba516e0abaf39914c698a0a44eab3acd4f4c1f688adba18490a8/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f646664782e737667" alt="crates.io" data-canonical-src="https://img.shields.io/crates/v/dfdx.svg" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/8c0d5e7f5db09569a6b54576cede3bd4268d1362c3f75369c6ce8044ad650290/68747470733a2f2f696d672e736869656c64732e696f2f646f637372732f64666478" alt="docs.rs" data-canonical-src="https://img.shields.io/docsrs/dfdx" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/8c289bc2e543bede952e249c23fb8e5a641878a4921bd5cf93a535ec78d4e4c6/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f646973636f72643f69636f6e3d646973636f7264266c6162656c" alt="Discord" data-canonical-src="https://badgen.net/badge/icon/discord?icon=discord&amp;label" style="max-width: 100%;">
+- dfdx(https://img.shields.io/crates/v/dfdx.svg)](https://crates.io/crates/dfdx)![Crates.io](https://img.shields.io/crates/l/dfdx)![druidDownloads](https://img.shields.io/crates/d/dfdx.svg)<a href="https://github.com/coreylowman/dfdx"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![star](https://img.shields.io/github/stars/coreylowman/dfdx.svg)
 
 - https://github.com/coreylowman/dfdx
 
