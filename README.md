@@ -22,6 +22,64 @@
 
 <hr>
 
+
+# Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+
+- https://github.com/rustformers/llama-rs
+  - 이게 맞는주소? https://github.com/rustformers/llm
+
+- Inference Llama 2 in one file of pure Rust 🦀 
+  - https://github.com/gaxler/llama2.rs
+
+# Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
+
+- rust-bert[![crates.io](https://img.shields.io/crates/v/rust-bert.svg)](https://crates.io/crates/rust-bert)![Crates.io](https://img.shields.io/crates/l/rust-bert)![druidDownloads](https://img.shields.io/crates/d/rust-bert.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/guillaume-be/rust-bert.svg)
+
+  - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+
+  - https://github.com/guillaume-be/rust-bert
+
+  - https://crates.io/crates/rust-bert
+
+# Rust MachineLearning<img alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
+
+- linfa[![crates.io](https://img.shields.io/crates/v/linfa.svg)](https://crates.io/crates/linfa)![Crates.io](https://img.shields.io/crates/l/linfa)![druidDownloads](https://img.shields.io/crates/d/linfa.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/rust-ml/linfa.svg)
+
+  - A Rust machine learning framework.
+
+  - https://github.com/rust-ml/linfa
+
+  - https://crates.io/crates/linfa
+
+- ndarray[![crates.io](https://img.shields.io/crates/v/ndarray.svg)](https://crates.io/crates/ndarray)![Crates.io](https://img.shields.io/crates/l/ndarray)![druidDownloads](https://img.shields.io/crates/d/ndarray.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/rust-ndarray/ndarray.svg)
+
+  - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+
+  - https://github.com/rust-ndarray/ndarray
+
+  - https://crates.io/crates/ndarray
+
+# dfdx: shape checked deep learning in rust
+
+- dfdx<img src="https://camo.githubusercontent.com/4831f22f8ade35c7fd51d8abeea003e2f5377bf92d32054f762b92ae053e4e4f/68747470733a2f2f62616467656e2e6e65742f62616467652f435544412f70617373696e672f677265656e" alt="CUDA" data-canonical-src="https://badgen.net/badge/CUDA/passing/green" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/94e6b588f74dba516e0abaf39914c698a0a44eab3acd4f4c1f688adba18490a8/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f646664782e737667" alt="crates.io" data-canonical-src="https://img.shields.io/crates/v/dfdx.svg" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/8c0d5e7f5db09569a6b54576cede3bd4268d1362c3f75369c6ce8044ad650290/68747470733a2f2f696d672e736869656c64732e696f2f646f637372732f64666478" alt="docs.rs" data-canonical-src="https://img.shields.io/docsrs/dfdx" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/8c289bc2e543bede952e249c23fb8e5a641878a4921bd5cf93a535ec78d4e4c6/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f646973636f72643f69636f6e3d646973636f7264266c6162656c" alt="Discord" data-canonical-src="https://badgen.net/badge/icon/discord?icon=discord&amp;label" style="max-width: 100%;">
+
+- https://github.com/coreylowman/dfdx
+
+  - dfdx v0.11.0: ergonomic GPU accelerated deep learning ENTIRELY in rust!
+
+    - https://coreylowman.github.io/2023/03/15/release-0.11.0.html
+
+# Minimalist ML framework for Rust 
+
+https://github.com/huggingface/candle
+
+<br>
+
+<hr>
+
 # ollama 쓸만한거
 
 ```bash
@@ -289,62 +347,6 @@ https://youtu.be/0QczhVg5HaI
 
 <hr>
 
-# Run LLaMA inference on CPU, with Rust 🦀🚀🦙
-
-- https://github.com/rustformers/llama-rs
-  - 이게 맞는주소? https://github.com/rustformers/llm
-
-- Inference Llama 2 in one file of pure Rust 🦀 
-  - https://github.com/gaxler/llama2.rs
-
-# Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
-
-- rust-bert[![crates.io](https://img.shields.io/crates/v/rust-bert.svg)](https://crates.io/crates/rust-bert)![Crates.io](https://img.shields.io/crates/l/rust-bert)![druidDownloads](https://img.shields.io/crates/d/rust-bert.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-  ![star](https://img.shields.io/github/stars/guillaume-be/rust-bert.svg)
-
-  - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-
-  - https://github.com/guillaume-be/rust-bert
-
-  - https://crates.io/crates/rust-bert
-
-# Rust MachineLearning<img alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
-
-- linfa[![crates.io](https://img.shields.io/crates/v/linfa.svg)](https://crates.io/crates/linfa)![Crates.io](https://img.shields.io/crates/l/linfa)![druidDownloads](https://img.shields.io/crates/d/linfa.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-  ![star](https://img.shields.io/github/stars/rust-ml/linfa.svg)
-
-  - A Rust machine learning framework.
-
-  - https://github.com/rust-ml/linfa
-
-  - https://crates.io/crates/linfa
-
-- ndarray[![crates.io](https://img.shields.io/crates/v/ndarray.svg)](https://crates.io/crates/ndarray)![Crates.io](https://img.shields.io/crates/l/ndarray)![druidDownloads](https://img.shields.io/crates/d/ndarray.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-  ![star](https://img.shields.io/github/stars/rust-ndarray/ndarray.svg)
-
-  - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
-
-  - https://github.com/rust-ndarray/ndarray
-
-  - https://crates.io/crates/ndarray
-
-# dfdx: shape checked deep learning in rust
-
-- dfdx<img src="https://camo.githubusercontent.com/4831f22f8ade35c7fd51d8abeea003e2f5377bf92d32054f762b92ae053e4e4f/68747470733a2f2f62616467656e2e6e65742f62616467652f435544412f70617373696e672f677265656e" alt="CUDA" data-canonical-src="https://badgen.net/badge/CUDA/passing/green" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/94e6b588f74dba516e0abaf39914c698a0a44eab3acd4f4c1f688adba18490a8/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f646664782e737667" alt="crates.io" data-canonical-src="https://img.shields.io/crates/v/dfdx.svg" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/8c0d5e7f5db09569a6b54576cede3bd4268d1362c3f75369c6ce8044ad650290/68747470733a2f2f696d672e736869656c64732e696f2f646f637372732f64666478" alt="docs.rs" data-canonical-src="https://img.shields.io/docsrs/dfdx" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/8c289bc2e543bede952e249c23fb8e5a641878a4921bd5cf93a535ec78d4e4c6/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f646973636f72643f69636f6e3d646973636f7264266c6162656c" alt="Discord" data-canonical-src="https://badgen.net/badge/icon/discord?icon=discord&amp;label" style="max-width: 100%;">
-
-- https://github.com/coreylowman/dfdx
-
-  - dfdx v0.11.0: ergonomic GPU accelerated deep learning ENTIRELY in rust!
-
-    - https://coreylowman.github.io/2023/03/15/release-0.11.0.html
-
-# Minimalist ML framework for Rust 
-
-https://github.com/huggingface/candle
-
-<br>
-
-<hr>
 
 # Dalai - Automatically install, run, and play with LLaMA on your computer
 
