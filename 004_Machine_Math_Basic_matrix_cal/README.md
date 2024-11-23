@@ -23,6 +23,7 @@
       - https://youtu.be/5kwz7ajxfyA?si=3eqhsvXLRnXHf1JW
       - [비슷한거ALL OF Calculus 2 in 5 minutes | FuzzyPenguinAMS](https://youtu.be/M9W5Fn0_WAM?si=SJpAtgSQU306xFL1)
 
+- [Linear Algebra - Full College Course | freeCodeCamp.org](https://youtu.be/JnTa9XtvmfI?si=-oAkPTXieCU78HLA)
 
 <hr />
 
