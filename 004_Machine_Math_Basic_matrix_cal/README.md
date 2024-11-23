@@ -29,6 +29,10 @@
 
 <hr />
 
+- [Calculus 1 - Full College Course | freeCodeCamp.org](https://youtu.be/HfACrKJ_Y2w?si=R7_xKg0-eOJ_JabT)
+
+<hr />
+
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
 
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
