@@ -23,7 +23,8 @@
       - https://youtu.be/5kwz7ajxfyA?si=3eqhsvXLRnXHf1JW
       - [비슷한거ALL OF Calculus 2 in 5 minutes | FuzzyPenguinAMS](https://youtu.be/M9W5Fn0_WAM?si=SJpAtgSQU306xFL1)
 
-- [Linear Algebra - Full College Course | freeCodeCamp.org](https://youtu.be/JnTa9XtvmfI?si=-oAkPTXieCU78HLA)
+- [(part1)Linear Algebra - Full College Course | freeCodeCamp.org](https://youtu.be/JnTa9XtvmfI?si=-oAkPTXieCU78HLA)
+- [(part2)Linear Algebra - Full College Course (Part 2)freeCodeCamp.org](https://youtu.be/DJ6YwBN7Ya8?si=fMFLVP6-Xzd5Gy-K)
   - [영상 모아보기) Essence of linear algebra | 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=TzIiErHaNEQSHh3V)
 
 <hr />
