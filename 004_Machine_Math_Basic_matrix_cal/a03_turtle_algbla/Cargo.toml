@@ -1,0 +1,8 @@
+[package]
+name = "a03_turtle_algbla"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+turtle = "1.0.0-rc.3"
+winit = "0.30.5"
