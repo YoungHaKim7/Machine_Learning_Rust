@@ -33,10 +33,10 @@
 
 # Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
 
-- burn-candle[![crates.io](https://img.shields.io/crates/v/burn-candle.svg)](https://crates.io/crates/burn-candle)![Crates.io](https://img.shields.io/crates/l/burn-candle)![druidDownloads](https://img.shields.io/crates/d/burn-candle.svg)<a href="[https://github.com/guillaume-be/rust-bert](https://github.com/tracel-ai/burn/tree/main/crates/burn-candle)"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-  ![star](https://img.shields.io/github/stars/tracel-ai/burn.svg)
-Burn is a new comprehensive dynamic Deep Learning Framework built using Rust
-with extreme flexibility, compute efficiency and portability as its primary goals.
+- burn-candle[![crates.io](https://img.shields.io/crates/v/burn-candle.svg)](https://crates.io/crates/burn-candle)![Crates.io](https://img.shields.io/crates/l/burn-candle)![druidDownloads](https://img.shields.io/crates/d/burn-candle.svg)<a href="[https://github.com/guillaume-be/rust-bert](https://github.com/tracel-ai/burn/tree/main/crates/burn-candle)">
+  
+- Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+  - burn https://github.com/tracel-ai/burn<img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![star](https://img.shields.io/github/stars/tracel-ai/burn.svg)
 
 - https://crates.io/crates/burn-candle
 - https://github.com/tracel-ai/burn/tree/main/crates/burn-candle
