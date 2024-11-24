@@ -26,6 +26,7 @@
 - [(part1)Linear Algebra - Full College Course | freeCodeCamp.org](https://youtu.be/JnTa9XtvmfI?si=-oAkPTXieCU78HLA)
 - [(part2)Linear Algebra - Full College Course (Part 2)freeCodeCamp.org](https://youtu.be/DJ6YwBN7Ya8?si=fMFLVP6-Xzd5Gy-K)
   - [영상 모아보기) Essence of linear algebra | 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=TzIiErHaNEQSHh3V)
+- [54hr) College Algebra Full Course | GreenMath.com](https://youtu.be/AuixBGkLjfo?si=92xUoMz7KkoCou8u)
 
 <hr />
 
