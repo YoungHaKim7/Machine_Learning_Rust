@@ -43,6 +43,7 @@
 - CNN영상에 주로 사용 / RNN 글씨 문자에 사용 
   - https://ebbnflow.tistory.com/119
     - CNN https://ebbnflow.tistory.com/138
+      - CNN은 보통 정보추출, 문장분류, 얼굴인식 등의 분야에서 널리 사용되고 있습니다. 출처: https://ebbnflow.tistory.com/119 [삶은 확률의 구름:티스토리]
 
 - 머신러닝+딥러닝 책 보는 순서-총 정리!!(Book-RoadMap) 
   - https://youtu.be/WHn5My6dN7c
