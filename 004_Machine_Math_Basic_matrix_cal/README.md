@@ -32,6 +32,15 @@
 
 - [Calculus 1 - Full College Course | freeCodeCamp.org](https://youtu.be/HfACrKJ_Y2w?si=R7_xKg0-eOJ_JabT)
 
+
+<hr />
+
+- 머신러닝 기초 원리
+  - [AI혁명의 시작 딥러닝 과연 노벨 물리학상은 왜 딥러닝에 주목하였을까? 2024 노벨물리학상해설 1부 [보이저엑스 남세동 대표] | 안될과학 Unrealscience](https://youtu.be/I0UJ5bn0o-I?si=BDR8iK5tSSizRpk-)
+  - [알려주지 않은 감정 뉴런이 인공신경망에 생기기 시작했다?! 퍼셉트론의 발전과정과 겨울 그리고 극복! 2024 노벨물리학상해설 2부! [보이저엑스 남세동 대표] | 안될과학 Unrealscience](https://youtu.be/A7PbaeuVhNA?si=2zqCVKKucOf6c-Zi)
+  - [갑자기 딥러닝이 주류가 된이유?! 인공지능의 발전이 온 계기와 생성형 AI의 원리 2024 노벨물리학상해설 3부! [보이저엑스 남세동 대표] 안될과학 Unrealscience](https://youtu.be/RjDijmYZftg?si=6hIIcIjf5oXLUf1N)
+
+
 <hr />
 
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
