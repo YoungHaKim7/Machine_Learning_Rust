@@ -45,6 +45,8 @@
 
 - 머신러닝+딥러닝 책 보는 순서-총 정리!!(Book-RoadMap) 
   - https://youtu.be/WHn5My6dN7c
+    - 어떤 책을 봐야 하나요? (버전2)
+      - https://youtu.be/lp_qGf--gJg
 
 <hr />
 
