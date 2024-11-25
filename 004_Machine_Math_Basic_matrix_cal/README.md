@@ -43,6 +43,9 @@
 - CNN영상에 주로 사용 / RNN 글씨 문자에 사용 
   - https://ebbnflow.tistory.com/119
 
+- 머신러닝+딥러닝 책 보는 순서-총 정리!!(Book-RoadMap) 
+  - https://youtu.be/WHn5My6dN7c
+
 <hr />
 
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
