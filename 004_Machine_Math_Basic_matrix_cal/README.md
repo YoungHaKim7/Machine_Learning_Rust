@@ -52,6 +52,12 @@
 
 <hr />
 
+- [도쿄대 0.01%만 푸는 정적분 | 교양수학 김희진](https://youtu.be/orvRra1Z2ms?si=tZkaS3aMtNdq8-W-)
+
+
+
+<hr />
+
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
 
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
