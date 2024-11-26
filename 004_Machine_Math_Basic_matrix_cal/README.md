@@ -39,6 +39,7 @@
 - AI 의 큰 그림으로 개념 잡기
   - AI 데이터 인프라의 부상 (felicis.com)(https://news.hada.io/topic?id=17940)
     - [여기에 그대도 복사함. fork자료](#ai-큰-그림으로-개념-잡기)
+  - [대전환 인터뷰:rocket: 'AI 4대 천황' 제프리 힌턴 교수, 10년 후 AI를 전망하다 | 미래기획 대전환 | KBS 20241109 방송 | KBS 다큐](https://youtu.be/SN-BISKo2lE?si=ht4r_aXsw7AWLjCl) 
 
 <hr />
 
