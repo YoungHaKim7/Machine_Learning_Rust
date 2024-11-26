@@ -38,6 +38,7 @@
 
 - AI 의 큰 그림으로 개념 잡기
   - AI 데이터 인프라의 부상 (felicis.com)(https://news.hada.io/topic?id=17940)
+    - [여기에 그래도 복사함. fork자료](ai-큰-그림으로-개념-잡기)
 
 <hr />
 
@@ -167,7 +168,7 @@ def homotopy(x,y,z,t):
 play(HomotopyAnimation(homotopy, plane, run_time=3)
 ```
 
-# Fast sigmoid algorithm 공식_출처 : stackoverflow.com
+# Fast sigmoid algorithm 공식_출처 : stackoverflow.com[|🔝|](#link)
 - https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm
 
 ```math
@@ -267,7 +268,7 @@ tanh(x)              5.5 ns
 x/(1+|x|)            5.5 ns
 ```
 
-# AI 큰 그림으로 개념 잡기
+# AI 큰 그림으로 개념 잡기[|🔝|](#link)
 
 
 <div id="msg"></div><div class="topic"><div class="vote"><span id="vote17940"><a class="upvote" href="javascript:vote(17940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle link"><a href="https://www.felicis.com/insight/ai-data-infrastructure" class="bold ud"><h1>AI 데이터 인프라의 부상</h1></a> <span class="topicurl">(felicis.com)</span></div><div class="topicinfo"><span id="tp17940">12</span>P by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17940"></span><span id="fav17940"> | <a href="javascript:fav(17940, &quot;favorite&quot;)">favorite</a></span> | <a href="topic?id=17940">댓글과 토론</a> </div><div class="topic_contents"><div><span id="topic_contents"><blockquote>
@@ -818,5 +819,11 @@ x/(1+|x|)            5.5 ns
 </ul>
 </li>
 </ul>
-</span></div></div></div>            <
+</span></div></div></div>
+
+<hr />
+
+<br />
+
+<hr />
             
