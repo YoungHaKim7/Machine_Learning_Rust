@@ -63,6 +63,7 @@
 <hr />
 
 - [Fast sigmoid algorithm 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm)
+  - [sigmoid공식 보기The sigmoid function is defined as](#fast-sigmoid-algorithm-공식_출처--stackoverflowcom)
 - [What is the role of the bias in neural networks? [closed] 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/2480650/what-is-the-role-of-the-bias-in-neural-networks)
 
 - Rust언어로 구현한 코드
@@ -170,6 +171,6 @@ play(HomotopyAnimation(homotopy, plane, run_time=3)
 
 ```math
 
-S(t) = /frac1/frac{1+e^-t} 
+S(t) = /frac{1}frac{1+e^-t} 
 
 ```
