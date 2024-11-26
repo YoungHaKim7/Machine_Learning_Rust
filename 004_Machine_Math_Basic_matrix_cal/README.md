@@ -64,6 +64,12 @@
 
 <hr />
 
+- eBooks
+  - [딥러닝 기초를 위한 선형대수학khanacademy.org/math/linear-algebra](https://ko.khanacademy.org/math/linear-algebra)
+  - [딥러닝 기초eBook& 행렬기초pytorch-Deep-Learning/ko/](https://atcold.github.io/pytorch-Deep-Learning/ko/)
+
+<hr />
+
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
 
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
