@@ -171,6 +171,6 @@ play(HomotopyAnimation(homotopy, plane, run_time=3)
 
 ```math
 
-S(t) = /frac{1}{1+e^-t} 
+S(t) = \frac{1}{1+e^-t} 
 
 ```
