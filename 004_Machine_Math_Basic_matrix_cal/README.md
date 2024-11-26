@@ -176,6 +176,9 @@ S(t) = \frac{1}{1+e^{-t}}
 
 ```
 
+- sigmoid 그래프로 이해하기
+<img src="https://i.sstatic.net/ddyfr.png" />
+
 - `S(t) = 1 / (1 + e^(-t))` (where `^` is `pow`)
 
 I found that using the C built-in function `exp()` to calculate the value of `f(x)` is slow. Is there any faster algorithm to calculate the value of `f(x)`?
