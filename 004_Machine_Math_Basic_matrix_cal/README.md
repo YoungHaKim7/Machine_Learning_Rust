@@ -35,6 +35,11 @@
 
 <hr />
 
+- AI 의 큰 그림으로 개념 잡기
+  - AI 데이터 인프라의 부상 (felicis.com)(https://news.hada.io/topic?id=17940)
+
+<hr />
+
 - 머신러닝 기초 원리
   - [AI혁명의 시작 딥러닝 과연 노벨 물리학상은 왜 딥러닝에 주목하였을까? 2024 노벨물리학상해설 1부 [보이저엑스 남세동 대표] | 안될과학 Unrealscience](https://youtu.be/I0UJ5bn0o-I?si=BDR8iK5tSSizRpk-)
   - [알려주지 않은 감정 뉴런이 인공신경망에 생기기 시작했다?! 퍼셉트론의 발전과정과 겨울 그리고 극복! 2024 노벨물리학상해설 2부! [보이저엑스 남세동 대표] | 안될과학 Unrealscience](https://youtu.be/A7PbaeuVhNA?si=2zqCVKKucOf6c-Zi)
@@ -158,4 +163,13 @@ def homotopy(x,y,z,t):
     alpha = sigmodi(tau)
     return [x, y+0.5*np.sin(2*np.pi*alpha), z]
 play(HomotopyAnimation(homotopy, plane, run_time=3)
+```
+
+# Fast sigmoid algorithm 공식_출처 : stackoverflow.com
+- https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm
+
+```math
+
+S(t) = /frac1/frac{1+e^-t} 
+
 ```
