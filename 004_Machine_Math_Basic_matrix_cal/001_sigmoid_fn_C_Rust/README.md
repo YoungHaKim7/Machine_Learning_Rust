@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm
