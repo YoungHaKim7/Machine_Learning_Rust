@@ -32,6 +32,29 @@ fn with_fabs(x: f64) -> f64 {
     x / (1.0 + x.abs())
 }
 
+#[inline(always)]
+pub fn fast_sigmoid(v: f32) -> f32 {
+    const C1: f32 = 0.03138777;
+    const C2: f32 = 0.276281267;
+    const C_LOG2F: f32 = 1.442695022; // ln(2) reciprocal
+
+    let mut v = v * C_LOG2F;
+    let int_part = v as i32; // Extract integer part
+    let x = v - int_part as f32; // Get fractional part
+    let xx = x * x; // Square of the fractional part
+    let v1 = C_LOG2F + C2 * xx;
+    let v2 = x + xx * C1 * x;
+    let mut v3 = v2 + v1;
+
+    // Combine integer part into the exponent
+    let bits = (v3.to_bits() as i32) + (int_part << 23);
+    v3 = f32::from_bits(bits as u32);
+
+    let v4 = v2 - v1;
+    let res = v3 / (v3 - v4); // For tanh: change to (v3 + v4) / (v3 - v4)
+    res
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -57,7 +80,13 @@ mod tests {
         b.iter(|| with_erf(1_000.0));
     }
 
+    #[bench]
     fn benchmark_fabs(b: &mut Bencher) {
         b.iter(|| with_fabs(1_000.0));
+    }
+
+    #[bench]
+    fn benchmark_fast_sigmoid(b: &mut Bencher) {
+        b.iter(|| fast_sigmoid(1_000.0));
     }
 }

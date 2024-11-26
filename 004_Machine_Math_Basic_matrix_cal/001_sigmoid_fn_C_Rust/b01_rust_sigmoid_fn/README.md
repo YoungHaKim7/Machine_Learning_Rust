@@ -16,6 +16,7 @@ erf(sqrt(pi)*x/2)    4.5 ns
 tanh(x)             14.8 ns
 x/(1+|x|)            0.0 ns
 
+FastSigmoid(1): 0.7869864
 
 ```
 
@@ -23,10 +24,12 @@ x/(1+|x|)            0.0 ns
 - cargo bench
 
 ```bash
-running 4 tests
-test tests::benchmark_atan ... bench:           0.24 ns/iter (+/- 0.00)
-test tests::benchmark_erf  ... bench:           2.88 ns/iter (+/- 0.01)
-test tests::benchmark_exp  ... bench:           0.24 ns/iter (+/- 0.00)
-test tests::benchmark_sqrt ... bench:           0.24 ns/iter (+/- 0.00)
+running 6 tests
+test tests::benchmark_atan         ... bench:           0.24 ns/iter (+/- 0.00)
+test tests::benchmark_erf          ... bench:           2.16 ns/iter (+/- 0.03)
+test tests::benchmark_exp          ... bench:           0.24 ns/iter (+/- 0.00)
+test tests::benchmark_fabs         ... bench:           0.24 ns/iter (+/- 0.00)
+test tests::benchmark_fast_sigmoid ... bench:           0.24 ns/iter (+/- 0.00)
+test tests::benchmark_sqrt         ... bench:           0.24 ns/iter (+/- 0.00
 
 ```

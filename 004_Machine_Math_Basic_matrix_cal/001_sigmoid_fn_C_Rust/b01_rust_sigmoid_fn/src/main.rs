@@ -46,6 +46,29 @@ fn with_fabs(x: f64) -> f64 {
     x / (1.0 + x.abs())
 }
 
+#[inline(always)]
+pub fn fast_sigmoid(v: f32) -> f32 {
+    const C1: f32 = 0.03138777;
+    const C2: f32 = 0.276281267;
+    const C_LOG2F: f32 = 1.442695022; // ln(2) reciprocal
+
+    let mut v = v * C_LOG2F;
+    let int_part = v as i32; // Extract integer part
+    let x = v - int_part as f32; // Get fractional part
+    let xx = x * x; // Square of the fractional part
+    let v1 = C_LOG2F + C2 * xx;
+    let v2 = x + xx * C1 * x;
+    let mut v3 = v2 + v1;
+
+    // Combine integer part into the exponent
+    let bits = (v3.to_bits() as i32) + (int_part << 23);
+    v3 = f32::from_bits(bits as u32);
+
+    let v4 = v2 - v1;
+    let res = v3 / (v3 - v4); // For tanh: change to (v3 + v4) / (v3 - v4)
+    res
+}
+
 fn main() {
     benchmark("atan(pi*x/2)*2/pi", with_atan);
     benchmark("atan(x)", |x| x.atan());
@@ -54,4 +77,7 @@ fn main() {
     benchmark("erf(sqrt(pi)*x/2)", with_erf);
     benchmark("tanh(x)", |x| x.tanh());
     benchmark("x/(1+|x|)", with_fabs);
+    let value = 1.0f32; // Example input
+    let result = fast_sigmoid(value);
+    println!("FastSigmoid({}): {}", value, result);
 }
