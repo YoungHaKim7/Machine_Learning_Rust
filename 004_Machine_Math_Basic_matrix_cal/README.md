@@ -187,7 +187,7 @@ S(t) = \frac{1}{1+e^{-t}}
 I found that using the C built-in function `exp()` to calculate the value of `f(x)` is slow. Is there any faster algorithm to calculate the value of `f(x)`?
 
 - 공식을 그래프로 보자 demos랑 다른거
-  - demos로 만들어봄 https://www.desmos.com/calculator/jys52pqiwx
+  - demos로 만들어봄 https://www.desmos.com/calculator/zdoveye7qb
   - https://www.wolframalpha.com/input?i=+series+1+%2F+%281+%2B+e+%5E+%28-x%29%29+at+x%3D1
 
 - C언어로
