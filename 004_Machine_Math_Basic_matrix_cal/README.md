@@ -64,7 +64,7 @@
 <hr />
 
 - [Fast sigmoid algorithm 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm)
-  - [sigmoid공식 보기The sigmoid function is defined as](#fast-sigmoid-algorithm-공식_출처--stackoverflowcom)
+  - [sigmoid공식 보기The sigmoid function is defined as & 그래프 그림으로 sigmoid함수 이해하기](#fast-sigmoid-algorithm-공식_출처--stackoverflowcom)
 - [What is the role of the bias in neural networks? [closed] 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/2480650/what-is-the-role-of-the-bias-in-neural-networks)
 
 - Rust언어로 구현한 코드
@@ -177,6 +177,8 @@ S(t) = \frac{1}{1+e^{-t}}
 ```
 
 - sigmoid 그래프로 이해하기
+  - https://stackoverflow.com/questions/2480650/what-is-the-role-of-the-bias-in-neural-networks
+
 <img src="https://i.sstatic.net/ddyfr.png" />
 
 - `S(t) = 1 / (1 + e^(-t))` (where `^` is `pow`)
