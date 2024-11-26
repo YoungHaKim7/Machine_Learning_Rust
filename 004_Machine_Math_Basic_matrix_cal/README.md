@@ -57,7 +57,10 @@
 
 <hr />
 
-- [C언어로 구현한 sigmoid function](https://github.com/nayayayay/sigmoid-function)
+- [Fast sigmoid algorithm 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm)
+
+- C언어로 구현한 코드
+  - [C언어로 구현한 sigmoid function](https://github.com/nayayayay/sigmoid-function)
 
 <hr />
 
