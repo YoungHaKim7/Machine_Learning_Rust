@@ -2,6 +2,7 @@
 
 - [수학기초 영어로 잘 정리됨github](https://github.com/ossu/math)
 - [LaTex문법 잘정리됨. 공식 넣을때 굿](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+  - [위키백과에 Tex문법 정리 잘됨](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
   - [깃허브 공식 문서 잘 정리됨.](https://docs.github.com/ko/enterprise-cloud@latest/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
   - [https://en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
@@ -171,6 +172,10 @@ play(HomotopyAnimation(homotopy, plane, run_time=3)
 
 ```math
 
-S(t) = \frac{1}{1+e^-t} 
+S(t) = \frac{1}{1+e^(-t)} 
 
 ```
+
+- `S(t) = 1 / (1 + e^(-t))` (where `^` is `pow`)
+
+I found that using the C built-in function `exp()` to calculate the value of `f(x)` is slow. Is there any faster algorithm to calculate the value of `f(x)`?
