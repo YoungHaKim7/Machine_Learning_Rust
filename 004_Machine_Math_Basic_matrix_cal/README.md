@@ -60,6 +60,9 @@
 - [Fast sigmoid algorithm 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/10732027/fast-sigmoid-algorithm)
 - [What is the role of the bias in neural networks? [closed] 공식_출처 : stackoverflow.com](https://stackoverflow.com/questions/2480650/what-is-the-role-of-the-bias-in-neural-networks)
 
+- Rust언어로 구현한 코드
+  - [Rust언어(burn) sigmoid function](https://docs.rs/burn/latest/burn/nn/struct.Sigmoid.html)
+
 - C언어로 구현한 코드
   - [C언어로 구현한 sigmoid function](https://github.com/nayayayay/sigmoid-function)
 
