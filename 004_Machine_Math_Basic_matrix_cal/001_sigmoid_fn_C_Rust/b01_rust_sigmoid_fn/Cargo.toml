@@ -1,0 +1,8 @@
+[package]
+name = "b01_rust_sigmoid_fn"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libm = "0.2.11"
+rand = "0.8.5"
