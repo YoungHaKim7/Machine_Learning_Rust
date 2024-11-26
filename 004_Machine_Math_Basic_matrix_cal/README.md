@@ -270,8 +270,10 @@ x/(1+|x|)            5.5 ns
 
 # AI 큰 그림으로 개념 잡기[|🔝|](#link)
 
+- 241125기준자료
+  - https://www.felicis.com/insight/ai-data-infrastructure
 
-<div id="msg"></div><div class="topic"><div class="vote"><span id="vote17940"><a class="upvote" href="javascript:vote(17940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle link"><a href="https://www.felicis.com/insight/ai-data-infrastructure" class="bold ud"><h1>AI 데이터 인프라의 부상</h1></a> <span class="topicurl">(felicis.com)</span></div><div class="topicinfo"><span id="tp17940">12</span>P by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17940"></span><span id="fav17940"> | <a href="javascript:fav(17940, &quot;favorite&quot;)">favorite</a></span> | <a href="topic?id=17940">댓글과 토론</a> </div><div class="topic_contents"><div><span id="topic_contents"><blockquote>
+<div id="msg"></div><div class="topic"><div class="vote"><span id="vote17940"><a class="upvote" href="javascript:vote(17940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle link"><a href="https://www.felicis.com/insight/ai-data-infrastructure" class="bold ud"><h1>AI 데이터 인프라의 부상</h1></a> <span class="topicurl">(felicis.com)</span></div><div class="topicinfo"><span id="tp17940">12</span>P by <a href="/user?id=xguru">xguru</a> 241125<span id="unvote17940"></span><span id="fav17940"> | <a href="javascript:fav(17940, &quot;favorite&quot;)">favorite</a></span> | <a href="topic?id=17940">댓글과 토론</a> </div><div class="topic_contents"><div><span id="topic_contents"><blockquote>
 <p>"우리는 현재 새로운 산업 혁명의 시작에 있음. 전기 생산 대신 인공지능을 생성하는.. [오픈소스]는 모든 기업이 인공지능 기업이 될 수 있게 함" - 젠슨 황</p>
 </blockquote>
 <ul>
