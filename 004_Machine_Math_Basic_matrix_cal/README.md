@@ -55,6 +55,9 @@
 - [도쿄대 0.01%만 푸는 정적분 | 교양수학 김희진](https://youtu.be/orvRra1Z2ms?si=tZkaS3aMtNdq8-W-)
 
 
+<hr />
+
+- [C언어로 구현한 sigmoid function](https://github.com/nayayayay/sigmoid-function)
 
 <hr />
 
