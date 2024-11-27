@@ -17,12 +17,20 @@ ldflags_assembly := "-Wall -save-temps"
 ldflags_fsanitize_address := "-O1 -g -fsanitize=address -fno-omit-frame-pointer -c"
 ldflags_fsanitize_object := "-g -fsanitize=address"
 ldflags_fsanitize_valgrind := "-fsanitize=address -g3"
+ldflags_optimize :=  "-Wall -O2 -pedantic -pthread -pedantic-errors -lm -Wextra -ggdb"
 
 # (C)clang compile
 r:
 	rm -rf target
 	mkdir -p target
 	clang {{ldflags_common}} -o {{target}} {{source}}
+	{{target}}
+
+# (C)clang compile(Optimization)
+ro:
+	rm -rf target
+	mkdir -p target
+	clang {{ldflags_optimize}} -o {{target}} {{source}}
 	{{target}}
 
 # zig C compile
