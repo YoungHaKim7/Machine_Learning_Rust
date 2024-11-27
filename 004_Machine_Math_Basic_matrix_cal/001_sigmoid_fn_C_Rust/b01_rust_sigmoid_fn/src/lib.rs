@@ -12,23 +12,41 @@ const M_PI_2_INV: f64 = 1.0 / M_PI_2;
 const M_2_SQRTPI: f64 = 1.12837916709551257390; // 2/sqrt(pi)
 const ERF_COEF: f64 = 1.0 / M_2_SQRTPI;
 
-fn with_atan(x: f64) -> f64 {
+pub fn benchmark<F>(name: &str, fun: F)
+where
+    F: Fn(f64) -> f64,
+{
+    let mut rng = rand::thread_rng();
+    let xs: Vec<f64> = (0..SIZE).map(|_| rng.gen::<f64>()).collect();
+
+    let start = Instant::now();
+    for _ in 0..CYCLES {
+        for &x in &xs {
+            let _ = fun(x);
+        }
+    }
+    let duration = start.elapsed();
+    let t_ns = (duration.as_secs_f64() * 1e9) / (CYCLES as f64 * SIZE as f64);
+    println!("{:<17} {:6.1} ns", name, t_ns);
+}
+
+pub fn with_atan(x: f64) -> f64 {
     M_PI_2_INV * (M_PI_2 * x).atan()
 }
 
-fn with_exp(x: f64) -> f64 {
+pub fn with_exp(x: f64) -> f64 {
     1.0 / (1.0 + (-x).exp())
 }
 
-fn with_sqrt(x: f64) -> f64 {
+pub fn with_sqrt(x: f64) -> f64 {
     1.0 / (1.0 + x * x).sqrt()
 }
 
-fn with_erf(x: f64) -> f64 {
+pub fn with_erf(x: f64) -> f64 {
     libm::erf(ERF_COEF * x)
 }
 
-fn with_fabs(x: f64) -> f64 {
+pub fn with_fabs(x: f64) -> f64 {
     x / (1.0 + x.abs())
 }
 
