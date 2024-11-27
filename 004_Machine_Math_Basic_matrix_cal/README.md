@@ -1,5 +1,16 @@
 # link
 
+- demos를 활용한 그래프 이해 2d
+  - [sigmoid함수_demos로 만들어봄](https://www.desmos.com/calculator/zdoveye7qb)
+  - [sine함수_demos로 만들어봄](https://www.desmos.com/calculator/3vdwmq0k54)
+  - [cosine함수_demos로 만들어봄](https://www.desmos.com/calculator/3h05h6npn6)
+  - [tangent함수_demos로 만들어봄](https://www.desmos.com/calculator/ebjjy9kzhm)
+
+- 수학용어 역사
+  - [(수학용어)사인·코사인·탄젠트 sin cos tan](https://lovejk7000.tistory.com/279)
+
+<hr />
+
 - [수학기초 영어로 잘 정리됨github](https://github.com/ossu/math)
 - [LaTex문법 잘정리됨. 공식 넣을때 굿](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
   - [위키백과에 Tex문법 정리 잘됨](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
