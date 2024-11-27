@@ -1,6 +1,6 @@
 # link
 
-- demos를 활용한 그래프 이해 2d
+- demos를 활용한 그래프 이해 2d(https://www.desmos.com/calculator)
   - [sigmoid함수_demos로 만들어봄](https://www.desmos.com/calculator/zdoveye7qb)
   - [sine함수_demos로 만들어봄](https://www.desmos.com/calculator/3vdwmq0k54)
   - [cosine함수_demos로 만들어봄](https://www.desmos.com/calculator/3h05h6npn6)
