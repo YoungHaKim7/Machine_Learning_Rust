@@ -7,7 +7,7 @@
   - [tangent함수_demos로 만들어봄](https://www.desmos.com/calculator/ebjjy9kzhm)
 
 - 3D GeoGebra를 이용한 3d 매트릭스 이해(https://www.geogebra.org/3d?lang=en)
-  - [3D Matrix Transformations | shaunteaches](https://youtu.be/9L0Edn4bkY4?si=3XDzKSsDDzIFR5Zz)
+  - [3D Matrix Transformations | shaunteaches유튜브 tutorial영상](https://youtu.be/9L0Edn4bkY4?si=3XDzKSsDDzIFR5Zz)
 
 - 수학용어 역사
   - [(수학용어)사인·코사인·탄젠트 sin cos tan](https://lovejk7000.tistory.com/279)
