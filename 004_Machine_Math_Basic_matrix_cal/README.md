@@ -9,6 +9,10 @@
 - 수학용어 역사
   - [(수학용어)사인·코사인·탄젠트 sin cos tan](https://lovejk7000.tistory.com/279)
 
+- 3D GeoGebra를 이용한 3d 매트릭스 이해
+  - [3D Matrix Transformations | shaunteaches](https://youtu.be/9L0Edn4bkY4?si=3XDzKSsDDzIFR5Zz)
+
+
 <hr />
 
 - [수학기초 영어로 잘 정리됨github](https://github.com/ossu/math)
