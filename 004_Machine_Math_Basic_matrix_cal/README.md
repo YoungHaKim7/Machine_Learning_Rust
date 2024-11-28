@@ -812,7 +812,7 @@ x/(1+|x|)            5.5 ns
 <li>주요 투자 사례:
 <ul>
 <li>
-<strong>Datology</strong>: 데이터 큐레이션</li>
+<strong>Datology</strong>: 데이터 큐레이션<a href="https://www.datologyai.com/">DatologyAI홈페이지</a></li>
 <li>
 <strong>Metaplane</strong>: 데이터 관찰 가능성(data observability)</li>
 <li>
