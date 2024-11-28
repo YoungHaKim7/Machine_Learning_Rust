@@ -818,7 +818,7 @@ x/(1+|x|)            5.5 ns
 <li>
 <strong>MotherDuck</strong>: 서버리스 데이터 웨어하우스<a href="https://forgeglobal.com/motherduck_ipo/">MotherDock 비상장회사 정보 보기</a></li>
 <li>
-<strong>Weights &amp; Biases</strong>: 실험 추적 도구</li>
+<strong>Weights &amp; Biases</strong>: 실험 추적 도구<a href="https://forgeglobal.com/weights-biases_stock/">Weights & Biases 비상장회사 정보 보기</a></li>
 </ul>
 </li>
 </ul>
