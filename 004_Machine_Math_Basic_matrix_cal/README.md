@@ -814,7 +814,7 @@ x/(1+|x|)            5.5 ns
 <li>
 <strong>Datology</strong>: 데이터 큐레이션<a href="https://www.datologyai.com/">DatologyAI홈페이지</a></li>
 <li>
-<strong>Metaplane</strong>: 데이터 관찰 가능성(data observability)</li>
+<strong>Metaplane</strong>: 데이터 관찰 가능성(data observability)<a href="https://www.metaplane.dev/">metaplane.dev홈페이지</a>__비상장회사 정보<a href="https://www.cbinsights.com/company/metaplane/financials">metaplane.dev비상장회사 정보 보기</a></li>
 <li>
 <strong>MotherDuck</strong>: 서버리스 데이터 웨어하우스</li>
 <li>
