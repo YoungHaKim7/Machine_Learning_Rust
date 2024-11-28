@@ -66,6 +66,7 @@
 
 
 - CNN영상에 주로 사용 / RNN 글씨 문자에 사용 
+  - [wiki정의-합성곱 신경망(콘볼루션 신경망, Convolutional neural network, CNN)은 시각적 영상을 분석하는 데 사용되는 다층의 피드-포워드적인 인공신경망의 한 종류이다](https://ko.m.wikipedia.org/wiki/%ED%95%A9%EC%84%B1%EA%B3%B1_%EC%8B%A0%EA%B2%BD%EB%A7%9D)
   - https://ebbnflow.tistory.com/119
     - CNN https://ebbnflow.tistory.com/138
       - CNN은 보통 정보추출, 문장분류, 얼굴인식 등의 분야에서 널리 사용되고 있습니다. 출처: https://ebbnflow.tistory.com/119 [삶은 확률의 구름:티스토리]
