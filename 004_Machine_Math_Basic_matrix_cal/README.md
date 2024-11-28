@@ -850,7 +850,7 @@ x/(1+|x|)            5.5 ns
 
 # OpenAI창업 맴버가 창업한 회사
 
-- perplexity(https://www.perplexity.ai/)(2022창업)
+- perplexity_2022창업_(https://www.perplexity.ai/)
   - https://forgeglobal.com/perplexity_stock/
   - Perplexity is a conversational AI platform that provides language models for search engines. With open-source software development, the mission of Perplexity is to help users gain new skills and knowledge through its features of verifiable sources and general intelligence tools to answer everyday questions. Perplexity was founded by Andy Konwinski, Aravind Srinivas, Denis Yarats, and Johnny Ho in 2022 and is headquartered in San Francisco, CA. 
 
