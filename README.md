@@ -101,6 +101,18 @@ https://github.com/huggingface/candle
 # ollama 쓸만한거
 
 ```bash
+# llama3.3(가정용 컴퓨터로 405B모델을 경험 가능 지금은 아주 느리다. 241212
+# New state of the art 70B model. Llama 3.3 70B offers similar performance compared to Llama 3.1 405B model.
+ollama run llama3.3
+
+# ollam 프로세서 잘 실행 되는지 확인
+# pgrep ollama
+6327
+6521
+
+# ollam "/bye" 로 종료 시키고 서비스 종료 시키기 
+$ systemctl stop ollama.service
+
 # 4.7GB
 ollama run llama3.1
 
