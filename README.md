@@ -6,6 +6,11 @@
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
 - [벡터 DB의 개념잡기 & LLM의 정의](#벡터-db의-개념잡기--llm의-정의)
 
+<hr />
+
+- C++로 구현한 머신 러닝
+  - 
+
 <hr>
 
 # 최신뉴스
@@ -22,6 +27,11 @@
 
 <hr>
 
+# # 드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋ**[GN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](<https://news.hada.io/topic?id=18295&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- https://andrewkchan.dev/posts/yalm.html
+  - C++와 CUDA를 사용하여 라이브러리 없이 LLM 추론 엔진을 구축하는 방법  
+  - 이를 통해 LLM 추론의 전체 스택을 이해하고, 다양한 최적화가 추론 속도에 미치는 영향을 실감할 수 있음  
+  - 목표 : 단일 CPU + GPU 서버에서 **단일 배치로 빠르게 추론**할 수 있도록 모델을 구현하고 **llama.cpp**보다 빠른 토큰 처...
 
 # Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 
