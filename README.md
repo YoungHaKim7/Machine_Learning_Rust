@@ -6,6 +6,7 @@
 
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
 - [벡터 DB의 개념잡기 & LLM의 정의](#벡터-db의-개념잡기--llm의-정의)
+- [머신러닝 논문정리 잘된 채널_임커밋](https://www.youtube.com/@%EC%9E%84%EC%BB%A4%EB%B0%8B)
 
 <hr />
 
