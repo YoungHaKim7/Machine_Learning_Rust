@@ -1,4 +1,5 @@
 # link
+
 - 머신러닝 Tutorial
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
@@ -14,6 +15,10 @@
 
 - C++로 구현한 머신 러닝
   - [(241217)드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋGN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](#241217드디어-올라옴-이걸-러스트-코드로-만들면-대박이요-ㅋㅋgn-c와-cuda를-사용하여-처음부터-llm-추론-엔진-만들기)
+
+<hr />
+
+- [요즘 핫한 기술 1bits집중하자. 엔비디아 float종류 알아보기](#1bit에-집중하자-nvidia도-이제-끝이네)
 
 <hr>
 
@@ -31,13 +36,13 @@
 
 <hr>
 
-# (241217)드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋ**[GN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](<https://news.hada.io/topic?id=18295&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+# (241217)드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋ**[GN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](<https://news.hada.io/topic?id=18295&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
 - https://andrewkchan.dev/posts/yalm.html
   - C++와 CUDA를 사용하여 라이브러리 없이 LLM 추론 엔진을 구축하는 방법  
   - 이를 통해 LLM 추론의 전체 스택을 이해하고, 다양한 최적화가 추론 속도에 미치는 영향을 실감할 수 있음  
   - 목표 : 단일 CPU + GPU 서버에서 **단일 배치로 빠르게 추론**할 수 있도록 모델을 구현하고 **llama.cpp**보다 빠른 토큰 처...
 
-# Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+# Run LLaMA inference on CPU, with Rust 🦀🚀🦙[|🔝|](#link)
 
 - https://github.com/rustformers/llama-rs
   - 이게 맞는주소? https://github.com/rustformers/llm
@@ -45,7 +50,7 @@
 - Inference Llama 2 in one file of pure Rust 🦀 
   - https://github.com/gaxler/llama2.rs
 
-# Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)
+# Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)[|🔝|](#link)
 
 - burn-candle[![crates.io](https://img.shields.io/crates/v/burn-candle.svg)](https://crates.io/crates/burn-candle)![Crates.io](https://img.shields.io/crates/l/burn-candle)![druidDownloads](https://img.shields.io/crates/d/burn-candle.svg)<a href="[https://github.com/guillaume-be/rust-bert](https://github.com/tracel-ai/burn/tree/main/crates/burn-candle)">
   
@@ -64,7 +69,7 @@
 
   - https://crates.io/crates/rust-bert
 
-# Rust MachineLearning<img alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
+# Rust MachineLearning<img alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>[|🔝|](#link)
 
 - linfa[![crates.io](https://img.shields.io/crates/v/linfa.svg)](https://crates.io/crates/linfa)![Crates.io](https://img.shields.io/crates/l/linfa)![druidDownloads](https://img.shields.io/crates/d/linfa.svg)<a href="https://github.com/guillaume-be/rust-bert"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
   ![star](https://img.shields.io/github/stars/rust-ml/linfa.svg)
@@ -84,7 +89,7 @@
 
   - https://crates.io/crates/ndarray
 
-# dfdx: shape checked deep learning in rust
+# dfdx: shape checked deep learning in rust[|🔝|](#link)
 
 - dfdx[![crates.io](https://img.shields.io/crates/v/dfdx.svg)](https://crates.io/crates/dfdx)![Crates.io](https://img.shields.io/crates/l/dfdx)![druidDownloads](https://img.shields.io/crates/d/dfdx.svg)<a href="https://github.com/coreylowman/dfdx"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![star](https://img.shields.io/github/stars/coreylowman/dfdx.svg)
 
@@ -94,7 +99,7 @@
 
     - https://coreylowman.github.io/2023/03/15/release-0.11.0.html
 
-# Minimalist ML framework for Rust 
+# Minimalist ML framework for Rust[|🔝|](#link)
 
 https://github.com/huggingface/candle
 
@@ -102,7 +107,7 @@ https://github.com/huggingface/candle
 
 <hr>
 
-# ollama 쓸만한거
+# ollama 쓸만한거[|🔝|](#link)
 
 ```bash
 # llama3.3(가정용 컴퓨터로 405B모델을 경험 가능 지금은 아주 느리다. 241212
@@ -137,7 +142,7 @@ ollama run mixtral:8x22b
 
 <hr>
 
-# 1bit에 집중하자 NVIDIA도 이제 끝이네
+# 1bit에 집중하자 NVIDIA도 이제 끝이네[|🔝|](#link)
 - Will NVIDIA Survive The Era of 1-Bit LLMs? | Finxter
   - https://youtu.be/HGbTAV8RoZQ?si=X6qZbabhOkAOj8Xr 
 - Matrix Multiplication is AI - What 1.58b LLMs Mean for NVIDIA | Finxter
@@ -153,15 +158,15 @@ ollama run mixtral:8x22b
 
 <hr>
 
-# NVIDIA칩 자세히 알아보기(240617)
+# NVIDIA칩 자세히 알아보기(240617)[|🔝|](#link)
 - https://youtu.be/0v-W7TM6NCE?si=eVgokdiNLwQA0Tob
 
-# NVIDIA는 16-bit Float(FP16/BF16) 부동 소수점에 최적화 되어있어서
+# NVIDIA는 16-bit Float(FP16/BF16) 부동 소수점에 최적화 되어있어서[|🔝|](#link)
 
 - 완전히 다른 방식으로 접근하고 있다.
   - Develop optimized kernels for 1-bit operations
   - Use FPGAs or ASICs for 1-bit operations
-# BitNet b1.58(This Work). vs 16-bit Float(FP16/BF16)
+# BitNet b1.58(This Work). vs 16-bit Float(FP16/BF16)[|🔝|](#link)
 - 9min 46s 참고
 
 # Why BitNet b1.58?[|🔝|](#link)
@@ -172,7 +177,7 @@ ollama run mixtral:8x22b
 
 - https://youtu.be/HGbTAV8RoZQ?si=0Bu_ovLzuTI9SRWR
 
-# (24년 04월경쯤)GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터 (arxiv.org)
+# (24년 04월경쯤)GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터 (arxiv.org)[|🔝|](#link)
 - https://news.hada.io/topic?id=13573
 
 <hr>
