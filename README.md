@@ -37,6 +37,11 @@
 - [(240301)GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터 (arxiv.org)](https://news.hada.io/topic?id=13573)
 - [(240131)생성형 AI 시대, 꽃피우는 ‘벡터 DB’](http://www.itdaily.kr/news/articleView.html?idxno=220008)
 
+<hr />
+
+- [Computer Science 관점에서 머신 러닝 이해하기](https://youtu.be/fTMMsreAqX0?si=RxgDmK-vF8GNTkUh)
+
+
 <hr>
 
 # (241217)드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋ**[GN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](<https://news.hada.io/topic?id=18295&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
