@@ -12,6 +12,7 @@
 
 - [huggingface Tutorial](https://huggingface.co/docs/hub/repositories-getting-started)
 - [https://huggingface.co/](https://huggingface.co/)
+  - [huggingface.co 모델 다운 받는 방법](#huggingfaceco-모델-다운-받는-방법) 
 
 <hr />
 
