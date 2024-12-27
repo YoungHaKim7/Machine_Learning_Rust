@@ -10,6 +10,11 @@
 
 <hr />
 
+- [huggingface Tutorial](https://huggingface.co/docs/hub/repositories-getting-started)
+- [https://huggingface.co/](https://huggingface.co/)
+
+<hr />
+
 - [Ollama쓸만한거 요즘 잘 쓰는중241217](#ollama-쓸만한거)
 
 <hr />
