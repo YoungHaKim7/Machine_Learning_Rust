@@ -53,6 +53,13 @@
 
 - https://huggingface.co/TheBloke/LLaMA-13b-GGUF
 
+```
+pip3 install huggingface-hub
+
+huggingface-cli download TheBloke/LLaMA-13b-GGUF llama-13b.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
+```
+
+
 # (241217)드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋ**[GN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](<https://news.hada.io/topic?id=18295&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
 - https://andrewkchan.dev/posts/yalm.html
   - https://github.com/andrewkchan/yalm
