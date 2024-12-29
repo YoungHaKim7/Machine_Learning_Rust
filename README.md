@@ -89,6 +89,8 @@ huggingface-cli download TheBloke/LLaMA-13b-GGUF llama-13b.Q4_K_M.gguf --local-d
     - https://crates.io/crates/ort
     - https://github.com/pykeio/ort
 
+- [가이드북 ort is an open-source Rust binding for ONNX Runtime.](https://ort.pyke.io/)
+
 <hr />
 
 # Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)[|🔝|](#link)
