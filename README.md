@@ -77,6 +77,20 @@ huggingface-cli download TheBloke/LLaMA-13b-GGUF llama-13b.Q4_K_M.gguf --local-d
 - Inference Llama 2 in one file of pure Rust 🦀 
   - https://github.com/gaxler/llama2.rs
 
+<hr />
+
+# Fast ML inference & training for ONNX models in Rust(컴퓨터 비젼 찾다가 알게 됨yolo)
+
+- ort[![crates.io](https://img.shields.io/crates/v/ort.svg)](https://crates.io/crates/ort)![Crates.io](https://img.shields.io/crates/l/ort)![druidDownloads](https://img.shields.io/crates/d/ort.svg)<a href="https://github.com/pykeio/ort"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![star](https://img.shields.io/github/stars/pykeio/ort.svg)
+
+- Fast ML inference & training for ONNX models in Rust
+  - Rust bindings for ONNX Runtime
+    - https://crates.io/crates/ort
+    - https://github.com/pykeio/ort
+
+<hr />
+
 # Artificial_Intelligence(NLP, Natural Language Processing models and pipelines.)[|🔝|](#link)
 
 - burn-candle[![crates.io](https://img.shields.io/crates/v/burn-candle.svg)](https://crates.io/crates/burn-candle)![Crates.io](https://img.shields.io/crates/l/burn-candle)![druidDownloads](https://img.shields.io/crates/d/burn-candle.svg)<a href="[https://github.com/guillaume-be/rust-bert](https://github.com/tracel-ai/burn/tree/main/crates/burn-candle)">
