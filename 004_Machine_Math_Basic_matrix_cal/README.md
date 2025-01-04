@@ -78,6 +78,11 @@
 
 <hr />
 
+- 파이썬 파이토치
+  - [nn.Linear 사용할때 주의할 점](https://youtu.be/zj8_UbOAKkk?si=NIb-ImL668irWJTr)
+
+<hr />
+
 - [도쿄대 0.01%만 푸는 정적분 | 교양수학 김희진](https://youtu.be/orvRra1Z2ms?si=tZkaS3aMtNdq8-W-)
 
 
