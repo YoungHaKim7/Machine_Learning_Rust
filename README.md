@@ -14,6 +14,8 @@
 - [https://huggingface.co/](https://huggingface.co/)
   - [huggingface.co 모델 다운 받는 방법](#huggingfaceco-모델-다운-받는-방법) 
 
+- [한국AI허브aihub.or.kr](https://www.aihub.or.kr/)
+
 <hr />
 
 - [Ollama쓸만한거 요즘 잘 쓰는중241217](#ollama-쓸만한거)
