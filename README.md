@@ -621,3 +621,14 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
   - 좋긴 한데 옛날꺼...
     - [This repository accompanies Practical Machine Learning with Rust by Joydeep Bhattacharjee (Apress, 2020).https://github.com/Apress/practical-machine-learning-w-rust](https://github.com/Apress/practical-machine-learning-w-rust)
     - https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
+
+
+<hr />
+
+# **[[번역] RAG 세상을 헤엄치는 사람들을 위한 가이드북](<https://news.hada.io/topic?id=18979&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
+임베딩과 정보 검색 전 과정 — 임베딩 개념과 한계, 데이터셋 생성·라벨링, 각종 오프 더 셸프 모델 평가, 하이브리드·리랭킹, 임베딩 모델 파인튜닝 및 최적화, 해석 가능성까지 –을 주욱 살펴보는 글입니다.  
+  
+다루는 주제들  
+  
+- 임베딩과 그 일반화 가능성(Generalizability)에 대한 논의  
+- 인간과 + ...
