@@ -85,7 +85,7 @@ huggingface-cli download TheBloke/LLaMA-13b-GGUF llama-13b.Q4_K_M.gguf --local-d
 
 <hr />
 
-# Fast ML inference & training for ONNX models in Rust(컴퓨터 비젼 찾다가 알게 됨yolo)
+# Fast ML inference & training for ONNX models in Rust(컴퓨터 비젼 찾다가 알게 됨yolo)[|🔝|](#link)
 
 - ort[![crates.io](https://img.shields.io/crates/v/ort.svg)](https://crates.io/crates/ort)![Crates.io](https://img.shields.io/crates/l/ort)![druidDownloads](https://img.shields.io/crates/d/ort.svg)<a href="https://github.com/pykeio/ort"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
   ![star](https://img.shields.io/github/stars/pykeio/ort.svg)
@@ -184,7 +184,7 @@ ollama run llama3.1:70b
 ollama run mixtral:8x22b
 ```
 
-# (C++코드로 머신러닝 잘 설명됨.)Snake learns with NEUROEVOLUTION (implementing NEAT from scratch in C++) |Tech With Nikola
+# (C++코드로 머신러닝 잘 설명됨.)Snake learns with NEUROEVOLUTION (implementing NEAT from scratch in C++) |Tech With Nikola[|🔝|](#link)
 - https://youtu.be/lAjcH-hCusg?si=eeEWJpy3SacoQYAb
   - 역시 핵심은 Sigmoid 함수와 Bias를 활용하는것!
 
@@ -314,7 +314,7 @@ ollama run mixtral:8x22b
 
 <hr>
 
-# 역시 갓 c언어 
+# 역시 갓 c언어[|🔝|](#link)
 - **[llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름](<https://news.hada.io/topic?id=14658&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
 - Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드  
 - 이제 멀티 GPU 트레이닝을 bfloat16으로 Flash Attention과 함께 수행   
@@ -323,15 +323,15 @@ ollama run mixtral:8x22b
   -  혼합 정밀도 훈련(bfloat16)  
   - 정규화된...
 
-# 파이토치 bye bye 👋  존나게 구린 파이토치 ㅋㅋㅋ 그동안 참고 쓰느라 힘들었다 ㅋㅋ 더럽고 치사해서 더 공부해서 러스트로 만들어 보자 ㅋㅋ
+# 파이토치 bye bye 👋  존나게 구린 파이토치 ㅋㅋㅋ 그동안 참고 쓰느라 힘들었다 ㅋㅋ 더럽고 치사해서 더 공부해서 러스트로 만들어 보자 ㅋㅋ[|🔝|](#link)
 - https://news.hada.io/topic?id=14228
 
-# 바로 해봐야지
+# 바로 해봐야지[|🔝|](#link)
 - https://github.com/karpathy/llm.c/discussions/344
 
 <hr>
 
-# MachineLearning_Tutorial
+# MachineLearning_Tutorial[|🔝|](#link)
 - Introduction to Deep Learning
   - https://github.com/sjchoi86/intro-dl
 
@@ -344,7 +344,7 @@ ollama run mixtral:8x22b
 
 <hr>
 
-# LLM -> LMM으로 패러다임 전환 중~~
+# LLM -> LMM으로 패러다임 전환 중~~[|🔝|](#link)
 - 231012_LLM은 옛말...이미지까지 학습한 'LMM' 뜬다
   - https://www.aitimes.com/news/articleView.html?idxno=154291
   - 대형언어모델(LLM)'에 이어 앞으로는 '대형멀티모달모델(LMM)
@@ -361,7 +361,7 @@ ollama run mixtral:8x22b
 
 <br>
 
-# Jupyter 노트북 러스트로 빠르게 돌리기
+# Jupyter 노트북 러스트로 빠르게 돌리기[|🔝|](#link)
 
 - https://racum.blog/articles/rust-jupyter/
 
@@ -379,7 +379,7 @@ $ evcxr_jupyter --install
 
 <hr>
 
-# Rust+WASM으로 이기종 Edge에서 빠르고 포터블한 Llama2 추론 실행하기 (secondstate.io)
+# Rust+WASM으로 이기종 Edge에서 빠르고 포터블한 Llama2 추론 실행하기 (secondstate.io)[|🔝|](#link)
 - https://news.hada.io/topic?id=11847&utm_source=discord&utm_medium=bot&utm_campaign=1480
   - https://www.secondstate.io/articles/fast-llm-inference/
   - https://github.com/second-state/WasmEdge-WASINN-examples/tree/master/wasmedge-ggml-llama-interactive
@@ -393,7 +393,7 @@ https://pytorch.org/get-started/locally/
 
 <hr>
 
-# h2oGPT - 완전한 오픈소스 GPT (github.com/h2oai)
+# h2oGPT - 완전한 오픈소스 GPT (github.com/h2oai)[|🔝|](#link)
 
 - https://github.com/h2oai/h2ogpt
   - 한글로 된 뉴스 기사‘노트북으로도 뚝딱’··· 로컬 시스템용 LLM 도구 5종 따라잡기 https://www.ciokorea.com/news/305929?page=0,0
@@ -401,12 +401,12 @@ https://pytorch.org/get-started/locally/
 
 - 노트북으로도 뚝딱’··· 로컬 시스템용 LLM 도구 5종 따라잡기 (원문보기:https://www.ciokorea.com/news/305929?page=0,0#csidx306f4ef0cca5c53bd4ca4c68ff36480 )
 
-# llama2를 파인 튜닝 하고 있는 사람들
+# llama2를 파인 튜닝 하고 있는 사람들[|🔝|](#link)
 
 - https://news.hada.io/topic?id=10898&utm_source=discord&utm_medium=bot&utm_campaign=1480
   - https://economiceco.tistory.com/18790
 
-# JS강의 No Black Box Machine Learning Course – Learn Without Libraries
+# JS강의 No Black Box Machine Learning Course – Learn Without Libraries[|🔝|](#link)
 https://youtu.be/vDDjtwQDw2k?si=exYH6L2aHAYEqGTJ
 
 - Machine Learning & Neural Networks without Libraries – No Black Box Course
@@ -414,13 +414,13 @@ https://youtu.be/vDDjtwQDw2k?si=exYH6L2aHAYEqGTJ
 
 <hr>
 
-# AlphaGo - The Movie | Full award-winning documentary
+# AlphaGo - The Movie | Full award-winning documentary[|🔝|](#link)
 
 https://youtu.be/WXuK6gekU1Y?si=D9ZPN7Lxc6icN2g9
 
 <hr>
 
-# Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
+# Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)[|🔝|](#link)
 
 - C언어로 Tesorflow/Pythorch 라이브러리 안 쓰고 신경망 구축하기 꼭 해보자❤
 
@@ -428,7 +428,7 @@ https://youtu.be/w8yWXqWQYmU
 
 <hr>
 
-# 신경망 수학 그림으로 다 이해하기 - 복잡한 신경망도 다 이해된다 !!! 최고Why Neural Networks can learn (almost) anything | Emergent Garden
+# 신경망 수학 그림으로 다 이해하기 - 복잡한 신경망도 다 이해된다 !!! 최고Why Neural Networks can learn (almost) anything | Emergent Garden[|🔝|](#link)
 
 https://youtu.be/0QczhVg5HaI
 
@@ -436,7 +436,7 @@ https://youtu.be/0QczhVg5HaI
 <hr>
 
 
-# Dalai - Automatically install, run, and play with LLaMA on your computer
+# Dalai - Automatically install, run, and play with LLaMA on your computer[|🔝|](#link)
 
 - What is Dalai?
 
@@ -452,13 +452,13 @@ https://stackshare.io/dalai?utm_source=weekly_digest&amp;utm_medium=email&amp;ut
 
 https://www.ddengle.com/board_free/19129866
 
-# The Pile is a large, diverse, open source language modelling data set
+# The Pile is a large, diverse, open source language modelling data set[|🔝|](#link)
 
 https://github.com/EleutherAI/the-pile
 
 <hr>
 
-# brew install libtorch(macOS)
+# brew install libtorch(macOS)[|🔝|](#link)
 
 - pytorch 실행전 이거 먼저 실행할 것 !!!
 
@@ -472,7 +472,7 @@ echo $LD_LIBRARY_PATH
 /opt/homebrew/Cellar/pytorch/1.13.1:
 ```
 
-# Rust Artificial Intelligence (The Simple Way)
+# Rust Artificial Intelligence (The Simple Way)[|🔝|](#link)
 
 https://youtu.be/StMP7g-0wK4
 
@@ -480,7 +480,7 @@ https://github.com/guillaume-be/rust-bert
 
 <br>
 
-# The AI community building the future.
+# The AI community building the future.[|🔝|](#link)
 
 https://huggingface.co/
 
@@ -488,17 +488,17 @@ https://huggingface.co/
 
 <hr>
 
-# How to Build a Machine Learning Model in Rust
+# How to Build a Machine Learning Model in Rust[|🔝|](#link)
 
 https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 
-# Rust Machine Learning Book
+# Rust Machine Learning Book[|🔝|](#link)
 
 - https://rust-ml.github.io/book/
 
 <br>
 
-# Unicode (Vim Plug-in)
+# Unicode (Vim Plug-in)[|🔝|](#link)
 
 https://github.com/chrisbra/unicode.vim
 
@@ -533,7 +533,7 @@ unicode#UnicodeName()   - Identifies unicode character (by value)
 
 <hr>
 
-# Natural Language Processing for Rust
+# Natural Language Processing for Rust[|🔝|](#link)
 
 https://github.com/lexi-sh/rs-natural
 
@@ -541,7 +541,7 @@ https://github.com/lexi-sh/rs-natural
 
 <hr>
 
-# This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
+# This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀[|🔝|](#link)
 
 https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
 
@@ -549,7 +549,7 @@ https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
 
 <hr>
 
-# Here is an example of a simple machine learning program written in the Rust programming language:
+# Here is an example of a simple machine learning program written in the Rust programming language:[|🔝|](#link)
 
 - GPT3
 
@@ -598,15 +598,15 @@ https://athemathmo.github.io/rusty-machine/doc/rusty_machine/index.html
 
 <hr>
 
-# How to Build a Machine Learning Model in Rust
+# How to Build a Machine Learning Model in Rust[|🔝|](#link)
 
 https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 
 <br>
 
-# Machine_Learning_Rust
+# Machine_Learning_Rust[|🔝|](#link)
 
-# 머신러닝기초
+# 머신러닝기초[|🔝|](#link)
 - Machine Learning Course for Beginners | freeCodeCamp.org
   - https://youtu.be/NWONeJKn6kc?si=wmh6EmpSKH1ZIzXH
 
