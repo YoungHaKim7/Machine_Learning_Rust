@@ -630,6 +630,8 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
 <hr />
 
 # **[[번역] RAG 세상을 헤엄치는 사람들을 위한 가이드북](<https://news.hada.io/topic?id=18979&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
+- https://sigridjin.medium.com/rag-%EC%84%B8%EC%83%81%EC%9D%84-%ED%97%A4%EC%97%84%EC%B9%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81-3e90f515d800
+
 임베딩과 정보 검색 전 과정 — 임베딩 개념과 한계, 데이터셋 생성·라벨링, 각종 오프 더 셸프 모델 평가, 하이브리드·리랭킹, 임베딩 모델 파인튜닝 및 최적화, 해석 가능성까지 –을 주욱 살펴보는 글입니다.  
   
 다루는 주제들  
