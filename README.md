@@ -56,6 +56,10 @@
 
 <hr>
 
+- [Compiling CUDA with clang]()
+
+<hr />
+
 # huggingface.co 모델 다운 받는 방법[|🔝|](#link)
 
 - https://huggingface.co/TheBloke/LLaMA-13b-GGUF
@@ -638,3 +642,63 @@ https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
   
 - 임베딩과 그 일반화 가능성(Generalizability)에 대한 논의  
 - 인간과 + ...
+
+
+<hr />
+
+# Compiling CUDA with clang[|🔝|](#link)
+- https://llvm.org/docs/CompileCudaWithLLVM.html
+
+```
+clang++ axpy.cu -o axpy --cuda-gpu-arch=<GPU arch> \
+    -L<CUDA install path>/<lib64 or lib>             \
+    -lcudart_static -ldl -lrt -pthread
+
+./axpy
+y[0] = 2
+y[1] = 4
+y[2] = 6
+y[3] = 8
+```
+
+- https://gist.github.com/anonymous/855e277884eb6b388cd2f00d956c2fd4
+
+```cpp
+#include <iostream>
+
+__global__ void axpy(float a, float* x, float* y) {
+  y[threadIdx.x] = a * x[threadIdx.x];
+}
+
+int main(int argc, char* argv[]) {
+  const int kDataLen = 4;
+
+  float a = 2.0f;
+  float host_x[kDataLen] = {1.0f, 2.0f, 3.0f, 4.0f};
+  float host_y[kDataLen];
+
+  // Copy input data to device.
+  float* device_x;
+  float* device_y;
+  cudaMalloc(&device_x, kDataLen * sizeof(float));
+  cudaMalloc(&device_y, kDataLen * sizeof(float));
+  cudaMemcpy(device_x, host_x, kDataLen * sizeof(float),
+             cudaMemcpyHostToDevice);
+
+  // Launch the kernel.
+  axpy<<<1, kDataLen>>>(a, device_x, device_y);
+
+  // Copy output data to host.
+  cudaDeviceSynchronize();
+  cudaMemcpy(host_y, device_y, kDataLen * sizeof(float),
+             cudaMemcpyDeviceToHost);
+
+  // Print the results.
+  for (int i = 0; i < kDataLen; ++i) {
+    std::cout << "y[" << i << "] = " << host_y[i] << "\n";
+  }
+
+  cudaDeviceReset();
+  return 0;
+}
+```
