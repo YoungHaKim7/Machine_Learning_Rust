@@ -151,7 +151,7 @@ a, b, c, \alpha, \beta, \gamma
 ```math
 {A}^{-1}
 ```
-> iInverse of a matrix `{A}^{-1}`
+> Inverse of a matrix `{A}^{-1}`
 - https://tex.stackexchange.com/questions/388386/inverse-matrix-of-a
 
 
