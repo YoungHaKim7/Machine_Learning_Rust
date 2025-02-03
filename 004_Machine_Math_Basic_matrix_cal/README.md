@@ -106,6 +106,109 @@
 
 <hr />
 
+# 머신러닝 기초 수학[|🔝|](#link)
+- https://mml-book.github.io/book/mml-book.pdf
+
+- Table of Symbols 
+  - https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols 
+  - https://www.overleaf.com/learn/latex/Bold%2C_italics_and_underlining 
+
+
+- Table of Symbols 
+
+|Symbol |Typical meaning|
+|-|-|
+|a, b, c, α, β, γ|Scalars are lowercase|
+|x, y, z |Vectors are bold lowercase|
+|||
+|x⊤, A⊤ |Transpose of a vector or matrix|
+
+```math
+a, b, c, \alpha, \beta, \gamma 
+```
+> Scalars are lowercase `\alpha, \beta, \gamma`
+
+
+```math
+{x}, {y}, {z}
+```
+> Vectors are bold lowercase `{x}`
+
+
+```math
+{A}, {B}, {C}
+```
+> Vectors are bold uppercase
+
+
+```math
+{x}^\intercal, {A}^\intercal
+```
+> Transpose of a vector or matrix `{x}^\intercal`
+- https://tex.stackexchange.com/questions/30619/what-is-the-best-symbol-for-vector-matrix-transpose 
+
+
+```math
+{A}^{-1}
+```
+> iInverse of a matrix `{A}^{-1}`
+- https://tex.stackexchange.com/questions/388386/inverse-matrix-of-a
+
+
+```math
+\langle {x},{y} \rangle
+```
+> Inner product of x and y `\langle {x},{y} \rangle`
+- https://www.physicsread.com/latex-inner-product/
+
+
+```math
+{x}^\intercal {y}
+```
+> Dot product of x and y `{x}^\intercal, {y}`
+
+```math
+B = ({b_1}, {b_2}, {b_3})
+```
+> (Ordered) tuple `b = ({b_1}, {b_2}, {b_3})`
+
+
+```math
+B = [{b_1}, {b_2}, {b_3}]
+```
+> Matrix of column vectors stacked horizontally `B = [{b_1}, {b_2}, {b_3}]`
+
+
+```math
+\Beta =  \{{b_1}, {b_2}, {b_3}\}
+```
+> Set of vectors(unordered) `\Beta =  \{{b_1}, {b_2}, {b_3}\}`
+- https://tex.stackexchange.com/questions/633184/how-to-typeset-a-curly-braced-column-vector 
+
+
+```math
+\mathbb{Z}, \mathbb{N}
+```
+> Integers and natural numbers, respectively `\mathbb{Z}, \mathbb{N}`
+
+
+```math
+\mathbb{R}, \mathbb{C}
+```
+> Real and complex number, respectively `\mathbb{R}, \mathbb{C}`
+
+
+```math
+\mathbb{R}^n
+```
+> n-dimensional vector space of real numbers `\mathbb{R}^n`
+
+
+<hr />
+
+
+<hr />
+
 # 행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea[|🔝|](#link)
 
 - https://youtu.be/ZlId8c6p09o?si=AjSeQd8OgfyVNpnD
