@@ -62,6 +62,13 @@
 
 <hr />
 
+# (250203)머신러닝 모든 모델 설명 👍 굿
+- All Machine Learning Models Clearly Explained! | 
+AI For Beginners
+- https://youtu.be/0YdpwSYMY6I?si=Kr2-FYBC6273a9RN
+
+<hr />
+
 # huggingface.co 모델 다운 받는 방법[|🔝|](#link)
 
 - https://huggingface.co/TheBloke/LLaMA-13b-GGUF
