@@ -63,9 +63,12 @@
 <hr />
 
 # (250203)머신러닝 모든 모델 설명 👍 굿
-- All Machine Learning Models Clearly Explained! | 
-AI For Beginners
-- https://youtu.be/0YdpwSYMY6I?si=Kr2-FYBC6273a9RN
+- All Machine Learning Models Clearly Explained! | AI For Beginners
+  - https://youtu.be/0YdpwSYMY6I?si=Kr2-FYBC6273a9RN
+
+- Transformers (how LLMs work) explained visually | DL5 | 3Blue1Brown
+  - https://youtu.be/wjZofJX0v4M?si=50KTkZEfDVPazy7o
+
 
 <hr />
 
