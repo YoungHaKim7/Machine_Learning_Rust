@@ -4,6 +4,8 @@
   - https://github.com/YoungHaKim7/rust-genai
   - Original Code https://github.com/jeremychone/rust-genai
 
+<hr />
+
 - 머신러닝 Tutorial
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
