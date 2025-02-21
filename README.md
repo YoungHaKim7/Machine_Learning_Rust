@@ -2,6 +2,7 @@
 
 - 러스트 genai
   - https://github.com/YoungHaKim7/rust-genai
+  - Original Code https://github.com/jeremychone/rust-genai
 
 - 머신러닝 Tutorial
   - [머신러닝기초](#머신러닝기초)
