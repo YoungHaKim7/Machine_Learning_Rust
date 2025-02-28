@@ -100,6 +100,21 @@ Hopper FP8 행렬 연산 및 최적화 기법을 학습하기에 적합
 <hr />
 
 
+# DeepSeek, DeepEP 오픈소스 공개 (2 of 5) (github.com/deepseek-ai)
+- https://news.hada.io/topic?id=19421
+3P by xguru 3일전 | ★ favorite | 댓글과 토론
+- Mixture-of-Experts(MoE) 및 Expert Parallelism(EP)을 위한 고성능 통신 라이브러리
+GPU 기반 All-to-All 커널을 제공하여 MoE 디스패치 및 결합 연산을 고속으로 처리
+FP8과 같은 저정밀 연산 지원
+DeepSeek-V3 논문에서 제안한 그룹 제한 게이팅(group-limited gating) 알고리즘을 적용하여 비대칭 도메인 대역폭 포워딩을 최적화
+예: NVLink → RDMA 데이터 전송 최적화
+훈련 및 추론 프리필링(prefilling) 작업에 적합한 높은 처리량 제공
+지연시간에 민감한 추론 디코딩을 위해 RDMA 전용 저지연 커널 포함
+통신-연산 오버랩 기법 제공 (SM 리소스를 점유하지 않음)
+
+<hr />
+
+
 
 # (250203)머신러닝 모든 모델 설명 👍 굿
 - All Machine Learning Models Clearly Explained! | AI For Beginners
