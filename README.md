@@ -68,7 +68,7 @@
 
 <hr />
 
-# ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/FlashMLA)
+# ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/)
 - 250228 
 - Fire-Flyer File System(3FS)는 AI 학습 및 추론 워크로드를 처리하기 위해 설계된 고성능 분산 파일 시스템
 최신 SSD 및 RDMA 네트워크를 활용하여 공유 스토리지 계층을 제공하고, 분산 애플리케이션 개발을 단순화함
@@ -125,6 +125,7 @@ BF16
 벤치마크: CUDA 12.6을 사용하여 H800 SXM5에서 메모리 바운드 구성에서 최대 3000GB/s, 연산 바운드 구성에서 580 TFLOPS를 달성
 FlashAttention 2&3 와 cutlass 에서 영감을 받음
 DeepSeek Open Infra 로 공개되는 5개 오픈소스 중 첫번째 임
+- https://github.com/deepseek-ai/FlashMLA
 
 <hr />
 
