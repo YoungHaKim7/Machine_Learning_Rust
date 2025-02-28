@@ -84,6 +84,22 @@
 <hr />
 
 
+# DeepSeek, DeepGEMM 오픈소스 공개 (3 of 5) (github.com/deepseek-ai)
+- https://news.hada.io/topic?id=19444
+3P by xguru 2일전 | ★ favorite 
+- FP8 행렬 곱셈(GEMM) 을 효율적으로 수행하는 라이브러리로, DeepSeek-V3에서 제안된 미세 조정 스케일링(fine-grained scaling) 방식을 지원함
+일반 GEMM과 Mix-of-Experts(MoE) 그룹화 GEMM을 모두 지원
+CUDA 기반으로 구현되었으며, 설치 시 별도 컴파일 없이 경량 Just-In-Time(JIT) 모듈을 사용하여 런타임에서 커널을 컴파일함
+현재 NVIDIA Hopper 텐서 코어 전용으로 지원
+FP8 텐서 코어의 부정확한 누적 연산을 보완하기 위해 CUDA 코어 기반 이중 누적(promotion) 사용
+CUTLASS 및 CuTe의 일부 개념을 활용하지만, 복잡한 템플릿 의존성을 줄여 약 300줄의 커널 코드만 포함하는 단순한 설계
+Hopper FP8 행렬 연산 및 최적화 기법을 학습하기에 적합
+경량 설계에도 불구하고 다양한 행렬 크기에서 전문가 수준으로 튜닝된 라이브러리와 유사하거나 더 나은 성능을 보임
+
+
+<hr />
+
+
 
 # (250203)머신러닝 모든 모델 설명 👍 굿
 - All Machine Learning Models Clearly Explained! | AI For Beginners
