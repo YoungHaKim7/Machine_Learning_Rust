@@ -74,7 +74,12 @@
 최신 SSD 및 RDMA 네트워크를 활용하여 공유 스토리지 계층을 제공하고, 분산 애플리케이션 개발을 단순화함
   - https://news.hada.io/topic?id=19489
 
-
+# **[DeepSeek, 최적화된 병렬 처리 전략 오픈소스 3가지 공개 (4 of 5)](<https://news.hada.io/topic?id=19466&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- DeepSeek V3/R1에서 사용했던 전략 및 코드들   
+  - DualPipe : 계산-통신 오버랩을 위한 양방향 파이프라인 병렬화 알고리듬  
+  - EPLB: Expert-Parallel 로드밸런서   
+  - Profile-Data: DeepSeek 인프라의 데이터 프로파일링으로 계산-통신 오버랩을 분석   
+# [DualPipe](https://github.com/deepseek-ai/DualPipe)
 
 <hr />
 
