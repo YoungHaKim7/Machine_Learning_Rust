@@ -114,6 +114,20 @@ DeepSeek-V3 논문에서 제안한 그룹 제한 게이팅(group-limited gating)
 
 <hr />
 
+# DeepSeek, FlashMLA 오픈소스 공개 (1 of 5) (github.com/deepseek-ai)
+- https://news.hada.io/topic?id=19401
+5P by xguru 4일전 | ★ favorite | 댓글 2개
+- Hopper GPU를 위한 효율적인 MLA 디코딩 커널
+가변 길이 시퀀스 서빙을 위해 최적화 됨
+현재 릴리즈 된 것
+BF16
+64 블록사이즈 Paged kvcache
+벤치마크: CUDA 12.6을 사용하여 H800 SXM5에서 메모리 바운드 구성에서 최대 3000GB/s, 연산 바운드 구성에서 580 TFLOPS를 달성
+FlashAttention 2&3 와 cutlass 에서 영감을 받음
+DeepSeek Open Infra 로 공개되는 5개 오픈소스 중 첫번째 임
+
+<hr />
+
 
 
 # (250203)머신러닝 모든 모델 설명 👍 굿
