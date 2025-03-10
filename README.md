@@ -43,6 +43,11 @@
 
 <hr>
 
+- [Stanford Seminar - Physical Intelligence and Cognitive Biases Toward AI | Stanford Online](https://youtu.be/z-5F-b1t1C0?si=UP6ubGIThB18WVKN)
+
+
+<hr />
+
 # 최신뉴스
 - [(241215)LLM -> LCM에서 최적화하려는 움직임(하루가 다르게 변한다.AI Trend ㅋ)LCM: The Ultimate Evolution of AI? Large Concept Models | Discover AI](https://youtu.be/y1MG0BCf3UU?si=A70mXdj-uCFEixqE)
 
