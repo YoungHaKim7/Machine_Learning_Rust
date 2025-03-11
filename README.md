@@ -46,6 +46,7 @@
 - [(외부링크)Stanford Seminar - Physical Intelligence and Cognitive Biases Toward AI | Stanford Online](https://youtu.be/z-5F-b1t1C0?si=UP6ubGIThB18WVKN)
 - [(외부링크)250304_Deep Learning Day: Generative Modeling | MIT Schwarzman College of Computing](https://youtu.be/2yJSoaGU2i4?si=91WIgptdHEENuY7P)
 - [(외부링크)250311 MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention | Alexander Amini](https://youtu.be/GvezxUdLrEk?si=JH407nUAxf6YmvIU)
+- [(외부링크)230823 What is Retrieval-Augmented Generation (RAG)? | IBM Technology](https://youtu.be/T-D1OfcDW1M?si=Hd0kQiAsTgWbAIul)
 
 
 
