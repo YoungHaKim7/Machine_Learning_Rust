@@ -97,6 +97,9 @@
 |||
 |||
 
+- 깔끔하게 글로 정리 됨
+  - https://medium.com/@vmule942/cuda-x-for-every-industry-revolutionizing-computing-across-domains-82ef84b4f59a
+
 <hr />
 
 # ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/)[|🔝|](#link)
