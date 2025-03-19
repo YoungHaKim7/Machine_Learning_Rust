@@ -6,6 +6,11 @@
 
 <hr />
 
+- [NVIDIA CUDA 용도별 정리numpy같은 라이브러리들](#cudanvidia의-용도별-정리)
+
+
+<hr />
+
 - 머신러닝 Tutorial
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
