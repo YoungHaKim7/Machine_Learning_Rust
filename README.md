@@ -85,10 +85,10 @@
 |-|-|
 |cuPYNUMPY||
 |cuLITHO|COMPUTATIONAL<br>LITHOGRAPHY|
-|||
-|||
-|||
-|||
+|AERIAL||
+|cuOPT||
+|PARABRICKS||
+|MONAI|MEDICAL IMAGING<br> 문서 https://docs.monai.io/en/stable/networks.html|
 |||
 |||
 
