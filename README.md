@@ -95,8 +95,8 @@
 |PARABRICK|GENE SEQUENCING|
 |MONAI|MEDICAL IMAGING<br> 문서 https://docs.monai.io/en/stable/networks.html|
 |EARTH-2 | WEATHER ANALYTICS|
-|||
-|||
+|cuQUANTUM<br />CUDA-Q | QUANTUM COMPUTING|
+|cuEQUIVARIANCE<br />cuTENSOR | QUANTUM CHEMISTRY|
 |||
 
 
