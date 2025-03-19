@@ -88,14 +88,18 @@
 
 |||
 |-|-|
-|cuPYNUMPY||
+|cuPYNUMERIC|NUMERICAL COMPUTING|
 |cuLITHO|COMPUTATIONAL<br>LITHOGRAPHY|
-|AERIAL||
-|cuOPT||
-|PARABRICKS||
+|AERIAL|5G/6G SIGNAL PROCESSING|
+|cuOPT|DECISION OPTIMIZATION|
+|PARABRICK|GENE SEQUENCING|
 |MONAI|MEDICAL IMAGING<br> 문서 https://docs.monai.io/en/stable/networks.html|
+|EARTH-2 | WEATHER ANALYTICS|
 |||
 |||
+|||
+
+
 
 - 깔끔하게 글로 정리 됨
   - https://medium.com/@vmule942/cuda-x-for-every-industry-revolutionizing-computing-across-domains-82ef84b4f59a
