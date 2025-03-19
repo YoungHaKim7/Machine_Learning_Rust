@@ -77,7 +77,24 @@
 
 <hr />
 
-# ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/)
+# Cuda(nvidia의 용도별 정리[|🔝|](#link)
+- 55분 부터 보면 잘 정리됨
+  - https://www.youtube.com/live/_waPvOwL9Z8?si=YGTqNQXqNVldUdwy
+
+|||
+|-|-|
+|cuPYNUMPY||
+|cuLITHO|COMPUTATIONAL<br>LITHOGRAPHY|
+|||
+|||
+|||
+|||
+|||
+|||
+
+<hr />
+
+# ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/)[|🔝|](#link)
 - 250228 
 - Fire-Flyer File System(3FS)는 AI 학습 및 추론 워크로드를 처리하기 위해 설계된 고성능 분산 파일 시스템
 최신 SSD 및 RDMA 네트워크를 활용하여 공유 스토리지 계층을 제공하고, 분산 애플리케이션 개발을 단순화함
@@ -93,7 +110,7 @@
 <hr />
 
 
-# DeepSeek, DeepGEMM 오픈소스 공개 (3 of 5) (github.com/deepseek-ai)
+# DeepSeek, DeepGEMM 오픈소스 공개 (3 of 5) (github.com/deepseek-ai)[|🔝|](#link)
 - https://news.hada.io/topic?id=19444
 3P by xguru 2일전 | ★ favorite 
 - FP8 행렬 곱셈(GEMM) 을 효율적으로 수행하는 라이브러리로, DeepSeek-V3에서 제안된 미세 조정 스케일링(fine-grained scaling) 방식을 지원함
@@ -109,7 +126,7 @@ Hopper FP8 행렬 연산 및 최적화 기법을 학습하기에 적합
 <hr />
 
 
-# DeepSeek, DeepEP 오픈소스 공개 (2 of 5) (github.com/deepseek-ai)
+# DeepSeek, DeepEP 오픈소스 공개 (2 of 5) (github.com/deepseek-ai)[|🔝|](#link)
 - https://news.hada.io/topic?id=19421
 3P by xguru 3일전 | ★ favorite | 댓글과 토론
 - Mixture-of-Experts(MoE) 및 Expert Parallelism(EP)을 위한 고성능 통신 라이브러리
@@ -140,7 +157,7 @@ DeepSeek Open Infra 로 공개되는 5개 오픈소스 중 첫번째 임
 
 
 
-# (250203)머신러닝 모든 모델 설명 👍 굿
+# (250203)머신러닝 모든 모델 설명 👍 굿[|🔝|](#link)
 - All Machine Learning Models Clearly Explained! | AI For Beginners
   - https://youtu.be/0YdpwSYMY6I?si=Kr2-FYBC6273a9RN
 
