@@ -15,11 +15,15 @@
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
 
-- [머신러닝 기초 수학https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)
+- [외부링크)머신러닝 기초 수학https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
 - [벡터 DB의 개념잡기 & LLM의 정의](#벡터-db의-개념잡기--llm의-정의)
-- [머신러닝 논문정리 잘된 채널_임커밋](https://www.youtube.com/@%EC%9E%84%EC%BB%A4%EB%B0%8B)
 
+<hr />
+
+- [외부링크)머신러닝 논문정리 잘된 채널_임커밋](https://www.youtube.com/@%EC%9E%84%EC%BB%A4%EB%B0%8B)
+  - CNN
+    - [(외부링크)20분만에 이해하는 CNN 】 | 임커밋](https://youtu.be/_d9pCrZNnYk?si=p3rHa4tSBUH5UrF6)
 
 <hr />
 
