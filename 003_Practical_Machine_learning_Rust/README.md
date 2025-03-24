@@ -1,3 +1,8 @@
+#  20분만에 이해하는 CNN 】 | 임커밋
+- https://youtu.be/_d9pCrZNnYk?si=p3rHa4tSBUH5UrF6
+
+<hr />
+
 # Practical Machine Learning with Rust by Joydeep Bhattacharjee (Apress, 2020
 - [This repository accompanies Practical Machine Learning with Rust by Joydeep Bhattacharjee (Apress, 2020).https://github.com/Apress/practical-machine-learning-w-rust](https://github.com/Apress/practical-machine-learning-w-rust)
 
