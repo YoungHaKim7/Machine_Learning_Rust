@@ -25,6 +25,12 @@
   - CNN
     - [(외부링크)20분만에 이해하는 CNN 】 | 임커밋](https://youtu.be/_d9pCrZNnYk?si=p3rHa4tSBUH5UrF6)
 
+- DeekSeek분석 자료
+  - [250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (1/2) | TERA KAIST](https://youtu.be/8Us0IL-4zvo?si=Uc4X90lwTW5b1Zww)
+  - [250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (2/2) | TERA KAIST](https://youtu.be/z24D2MYIh6k?si=kZl4Pz1KDmAqdHck)
+]
+ 
+
 <hr />
 
 - [huggingface Tutorial](https://huggingface.co/docs/hub/repositories-getting-started)
