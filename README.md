@@ -30,7 +30,8 @@
   - [(외부링크)250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (2/2) | TERA KAIST](https://youtu.be/z24D2MYIh6k?si=kZl4Pz1KDmAqdHck)
     - [GeekNews에 올라온 Deepseek 파트 5개짜리 굿^^](#deepseek-3fs-파일시스템-과-smallpond-데이터-처리-프레임워크-오픈소스-공개-5-of-5-githubcomdeepseek-ai) 
 
- 
+
+ - [(외부링크) 250324_What is a Vector Database? Powering Semantic Search & AI Applications | IBM Technology](https://youtu.be/gl1r1XV0SLw?si=bySGOFclGIa4tBFY)
 
 <hr />
 
