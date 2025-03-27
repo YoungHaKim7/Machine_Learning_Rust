@@ -34,6 +34,7 @@
     - [GeekNews에 올라온 Deepseek 파트 5개짜리 굿^^](#deepseek-3fs-파일시스템-과-smallpond-데이터-처리-프레임워크-오픈소스-공개-5-of-5-githubcomdeepseek-ai) 
 
 - [(외부링크) 250320_What Are AI Agents Really About? | ByteByteGo](https://youtu.be/eHEHE2fpnWQ?si=4pJUQg-3NOMKKeEE)
+- [(외부링크) 250219 What is MCP? Integrate AI Agents with Databases & APIs | IBM Technology](https://youtu.be/eur8dUO9mvE?si=AN-lYJ5Y6mzJVSgG)
 
 <hr />
 
