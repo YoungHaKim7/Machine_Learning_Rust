@@ -19,7 +19,8 @@
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
 - [벡터 DB의 개념잡기 & LLM의 정의](#벡터-db의-개념잡기--llm의-정의)
 
-- [250320_What Are AI Agents Really About? | ByteByteGo](https://youtu.be/eHEHE2fpnWQ?si=4pJUQg-3NOMKKeEE)
+- [(외부링크) 250324_What is a Vector Database? Powering Semantic Search & AI Applications | IBM Technology](https://youtu.be/gl1r1XV0SLw?si=bySGOFclGIa4tBFY)
+
 
 <hr />
 
@@ -32,8 +33,7 @@
   - [(외부링크)250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (2/2) | TERA KAIST](https://youtu.be/z24D2MYIh6k?si=kZl4Pz1KDmAqdHck)
     - [GeekNews에 올라온 Deepseek 파트 5개짜리 굿^^](#deepseek-3fs-파일시스템-과-smallpond-데이터-처리-프레임워크-오픈소스-공개-5-of-5-githubcomdeepseek-ai) 
 
-
- - [(외부링크) 250324_What is a Vector Database? Powering Semantic Search & AI Applications | IBM Technology](https://youtu.be/gl1r1XV0SLw?si=bySGOFclGIa4tBFY)
+- [(외부링크) 250320_What Are AI Agents Really About? | ByteByteGo](https://youtu.be/eHEHE2fpnWQ?si=4pJUQg-3NOMKKeEE)
 
 <hr />
 
