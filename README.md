@@ -24,6 +24,8 @@
 
 <hr />
 
+- [머신러닝 연구 자료가 잘 정리됨.https://www.natolambert.com/writing/debugging-mbrl](https://www.natolambert.com/writing/debugging-mbrl)
+
 - [외부링크)머신러닝 논문정리 잘된 채널_임커밋](https://www.youtube.com/@%EC%9E%84%EC%BB%A4%EB%B0%8B)
   - CNN
     - [(외부링크)20분만에 이해하는 CNN 】 | 임커밋](https://youtu.be/_d9pCrZNnYk?si=p3rHa4tSBUH5UrF6)
