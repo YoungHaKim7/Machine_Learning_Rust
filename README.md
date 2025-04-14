@@ -73,6 +73,7 @@
 <hr />
 
 # 최신뉴스
+- [(250414) World Model+ 범위의 확장 | 집중~~~ AI 다음은 뭘지 | AI 개발자가 직접 설명요 | AI의 다음 연구는 무엇이 될까? - AI 대부의 GTC 2025 인터뷰 정리 | Science Vibe](https://youtu.be/Vhzbup5Sghc?si=3HjiKbPI3PFeAqPB)
 - [(241215)LLM -> LCM에서 최적화하려는 움직임(하루가 다르게 변한다.AI Trend ㅋ)LCM: The Ultimate Evolution of AI? Large Concept Models | Discover AI](https://youtu.be/y1MG0BCf3UU?si=A70mXdj-uCFEixqE)
 
 - [(241119)Google DeepMind has a new way to look inside an AI’s “mind”구글 딥마인드, AI ‘마음’ 들여다볼 혁신적 돌파구 마련](https://www.technologyreview.kr/%EA%B5%AC%EA%B8%80-%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C-ai-%EB%A7%88%EC%9D%8C-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%BC-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%8C%ED%8C%8C%EA%B5%AC-%EB%A7%88%EB%A0%A8/)
