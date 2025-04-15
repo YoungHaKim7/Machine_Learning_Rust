@@ -124,6 +124,12 @@
 
 <hr />
 
+# **[DeepSeek 추론 엔진 오픈소스를 향한 여정](<https://news.hada.io/topic?id=20335&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- **DeepSeek 팀이 내부 추론 엔진(DeepSeek Inference Engine)을 오픈소스로 환원**하기 위한 계획을 공개함  
+- 기존의 추론 엔진은 vLLM 기반이며, DeepSeek-V3 및 R1 모델의 배포 수요 증가에 따라 공유를 고려중  
+- **기존 코드와 인프라 종속성, 유지보수 부담 등으로 전체 공개는 어려움**, 대신 **모듈화 및 기…
+
+
 # ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/)[|🔝|](#link)
 - 250228 
 - Fire-Flyer File System(3FS)는 AI 학습 및 추론 워크로드를 처리하기 위해 설계된 고성능 분산 파일 시스템
