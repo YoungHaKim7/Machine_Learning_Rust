@@ -130,6 +130,11 @@
 - **기존 코드와 인프라 종속성, 유지보수 부담 등으로 전체 공개는 어려움**, 대신 **모듈화 및 기…
 
 
+# **[DeepSeek의 분산 파일 시스템 3FS 소개](<https://news.hada.io/topic?id=20397&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- **3FS는 DeepSeek가 개발한 고성능 오픈소스 분산 파일 시스템**으로, 대규모 데이터 처리와 높은 처리량을 지원함  
+- **일반적인 파일 시스템처럼 동작하지만**, 실제로는 여러 머신에 데이터를 분산 저장하며 사용자는 이를 의식하지 않아도 되는 추상화 구조를 가짐  
+- **4가지 주요 구성 요소 (Meta, Mgmtd, Sto…
+
 # ▲DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5) [(github.com/deepseek-ai)](https://github.com/deepseek-ai/)[|🔝|](#link)
 - 250228 
 - Fire-Flyer File System(3FS)는 AI 학습 및 추론 워크로드를 처리하기 위해 설계된 고성능 분산 파일 시스템
