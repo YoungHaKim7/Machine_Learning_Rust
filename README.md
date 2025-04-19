@@ -33,10 +33,13 @@
 - DeekSeek분석 자료
   - [(외부링크)250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (1/2) | TERA KAIST](https://youtu.be/8Us0IL-4zvo?si=Uc4X90lwTW5b1Zww)
   - [(외부링크)250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (2/2) | TERA KAIST](https://youtu.be/z24D2MYIh6k?si=kZl4Pz1KDmAqdHck)
-    - [GeekNews에 올라온 Deepseek 파트 5개짜리 굿^^](#deepseek-3fs-파일시스템-과-smallpond-데이터-처리-프레임워크-오픈소스-공개-5-of-5-githubcomdeepseek-ai) 
+    - [GeekNews에 올라온 Deepseek 파트 5개짜리 굿^^](#deepseek-3fs-파일시스템-과-smallpond-데이터-처리-프레임워크-오픈소스-공개-5-of-5-githubcomdeepseek-ai)
+      - [DeepSeek 추론 엔진 오픈소스를 향한 여정](#deepseek-추론-엔진-오픈소스를-향한-여정)
 
 - [(외부링크) 250320_What Are AI Agents Really About? | ByteByteGo](https://youtu.be/eHEHE2fpnWQ?si=4pJUQg-3NOMKKeEE)
 - [(외부링크) 250219 What is MCP? Integrate AI Agents with Databases & APIs | IBM Technology](https://youtu.be/eur8dUO9mvE?si=AN-lYJ5Y6mzJVSgG)
+
+- [Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발]()
 
 <hr />
 
@@ -356,6 +359,16 @@ ollama run mixtral:8x22b
 
 - Nvidia Blackwell Deep Dive (GB 200 NVL72) $125B Revenue Projection
   - https://youtu.be/gxRGPTv82AY?si=AplrKMKzFXO5qOOw
+
+<hr />
+
+# Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발[|🔝|](#link)
+
+- Microsoft 연구진이 BitNet b1.58 2B4T라는 초효율적인 AI 모델을 개발했음  
+- 1비트 양자화를 통해 높은 속도와 낮은 메모리 사용량 달성하여 CPU에서도 실행 가능하며 MIT 라이선스로 공개됨  
+- Appl…
+- https://news.hada.io/topic?id=20406
+
 
 <hr>
 
