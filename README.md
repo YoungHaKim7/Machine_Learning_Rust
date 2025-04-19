@@ -39,7 +39,7 @@
 - [(외부링크) 250320_What Are AI Agents Really About? | ByteByteGo](https://youtu.be/eHEHE2fpnWQ?si=4pJUQg-3NOMKKeEE)
 - [(외부링크) 250219 What is MCP? Integrate AI Agents with Databases & APIs | IBM Technology](https://youtu.be/eur8dUO9mvE?si=AN-lYJ5Y6mzJVSgG)
 
-- [Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발]()
+- [250419_Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발](#microsoft-cpu에서-실행가능한-초고효율-ai-모델-bitnet-개발)
 
 <hr />
 
