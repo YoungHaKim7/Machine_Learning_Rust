@@ -12,6 +12,9 @@
 - 수학용어 역사
   - [(수학용어)사인·코사인·탄젠트 sin cos tan](https://lovejk7000.tistory.com/279)
 
+- 머신러닝 역사
+  - [(250225)AI과거, 현재, 미래 총정리 _Artificial Intelligence - Past, Present, Future: Prof. W. Eric Grimson | MIT Corporate Relations](https://youtu.be/dyt42j7XJaQ?si=PI_TOeYFenEeKKyO)
+
 <hr />
 
 - [수학기초 영어로 잘 정리됨github](https://github.com/ossu/math)
