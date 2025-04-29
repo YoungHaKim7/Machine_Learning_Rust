@@ -863,3 +863,13 @@ int main(int argc, char* argv[]) {
   return 0;
 }
 ```
+
+<hr />
+
+# Rust로 만든 머신러닝 관련 자료 모음
+
+# **[CubeCL - CUDA, ROCm, WGPU를 위한 Rust 기반 GPU 커널](<https://news.hada.io/topic?id=20561&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
+- **CubeCL은** Rust에서 GPU 커널을 작성할 수 있도록 해주는 고성능 멀티플랫폼 언어 확장  
+- **함수, 제네릭, 구조체**를 완벽하게 지원하며, **특성, 메서드, 타입 추론**은 부분적으로 지원  
+- **WGPU, CUDA, ROCm** 기반 런타임을 지원하며, **SIMD 명령어**를 활용한 최적화된 JIT CPU 런타임도 개발중   
+- *…
