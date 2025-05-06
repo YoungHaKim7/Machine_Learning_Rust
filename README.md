@@ -14,6 +14,7 @@
 - 머신러닝 Tutorial
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
+  - [외부링크)뉴럴네트워크라는걸 들어 보셨다면 보셔야 할 영상. - DL1 | 3Blue1Brown 한국어](https://m.youtube.com/watch?si=F9xOKvSqdDcomlq1&v=wrguEHxk_EI&feature=youtu.be)
 
 - [외부링크)머신러닝 기초 수학https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
