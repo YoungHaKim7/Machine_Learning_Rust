@@ -873,6 +873,8 @@ int main(int argc, char* argv[]) {
 
 <hr />
 
+# 최신뉴스 모음
+
 # Rust로 만든 머신러닝 관련 자료 모음
 
 # **[CubeCL - CUDA, ROCm, WGPU를 위한 Rust 기반 GPU 커널](<https://news.hada.io/topic?id=20561&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
@@ -880,3 +882,10 @@ int main(int argc, char* argv[]) {
 - **함수, 제네릭, 구조체**를 완벽하게 지원하며, **특성, 메서드, 타입 추론**은 부분적으로 지원  
 - **WGPU, CUDA, ROCm** 기반 런타임을 지원하며, **SIMD 명령어**를 활용한 최적화된 JIT CPU 런타임도 개발중   
 - *…
+
+
+# 250511**[Llama.cpp 이제 비전 기능 지원 (멀티모달 입력)](<https://news.hada.io/topic?id=20822&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
+- **Llama.cpp**가 이제 **libmtmd**를 통해 멀티모달 입력(비전 포함)을 지원함  
+  - llama-mtmd-cli 또는 llama-server를 통한 OpenAI 호환 `/chat/completions` API   
+- Gemma 3, SmolVLM, Pixtral, Qwen 2/2.5, Mistra Small, InternVL 등 **모델**에서 멀티모달 기능 즉시 사용 가능함  
+  - Pre-quantized 모델…
