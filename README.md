@@ -15,6 +15,8 @@
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
   - [외부링크)뉴럴네트워크라는걸 들어 보셨다면 보셔야 할 영상. - DL1 | 3Blue1Brown 한국어](https://m.youtube.com/watch?si=F9xOKvSqdDcomlq1&v=wrguEHxk_EI&feature=youtu.be)
+    - [외부링크)(영상모아보기) Neural networks | 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=jA0PvfVOXKSePwy2)
+  - [외부링크)250423 Essential Machine Learning and AI Concepts Animated | freeCodeCamp.org](https://youtu.be/PcbuKRNtCUc?si=t-7lvEmyHwdrkU2C)
 
 - [외부링크)머신러닝 기초 수학https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
@@ -30,7 +32,7 @@
 - [외부링크)머신러닝 논문정리 잘된 채널_임커밋](https://www.youtube.com/@%EC%9E%84%EC%BB%A4%EB%B0%8B)
   - CNN
     - [(외부링크)20분만에 이해하는 CNN 】 | 임커밋](https://youtu.be/_d9pCrZNnYk?si=p3rHa4tSBUH5UrF6)
-    - [(외부링크)230725[Deep Learning 101 합성곱신경망 CNN, Convolutional Neural Network | 신박Ai](https://youtu.be/lDqn1UNwgrY?si=O4Yp9QL1edDKuFAi)
+    - [(외부링크)230725_Deep Learning 101 합성곱신경망 CNN, Convolutional Neural Network | 신박Ai](https://youtu.be/lDqn1UNwgrY?si=O4Yp9QL1edDKuFAi)
 
 - DeekSeek분석 자료
   - [(외부링크)250220_DeepSeek 기술분석 Workshop | DeepSeek 경쟁력의 비밀을 정밀하게 뜯어본다 (1/2) | TERA KAIST](https://youtu.be/8Us0IL-4zvo?si=Uc4X90lwTW5b1Zww)
