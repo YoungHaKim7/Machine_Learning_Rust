@@ -17,6 +17,7 @@
   - [외부링크)뉴럴네트워크라는걸 들어 보셨다면 보셔야 할 영상. - DL1 | 3Blue1Brown 한국어](https://m.youtube.com/watch?si=F9xOKvSqdDcomlq1&v=wrguEHxk_EI&feature=youtu.be)
     - [외부링크)(영상모아보기) Neural networks | 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=jA0PvfVOXKSePwy2)
   - [외부링크)250423 Essential Machine Learning and AI Concepts Animated | freeCodeCamp.org](https://youtu.be/PcbuKRNtCUc?si=t-7lvEmyHwdrkU2C)
+  - [(외부링크250531)AI가 궁금하다면 봐야할 기초영상 경사하강법 - DL2 | 3Blue1Brown 한국어](https://youtu.be/8861RzFOFs8?si=uaJjvpkbK3ArHEFU)
 
 - [외부링크)머신러닝 기초 수학https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)
 - [초보자를 위한 Vector Embeddings 가이드 (timescale.com)](#초보자를-위한-vector-embeddings-가이드-timescalecom)
