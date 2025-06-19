@@ -72,6 +72,10 @@
 - C++로 구현한 머신 러닝
   - [(241217)드디어 올라옴 이걸 러스트 코드로 만들면 대박이요 ㅋㅋGN⁺: C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기](#241217드디어-올라옴-이걸-러스트-코드로-만들면-대박이요-ㅋㅋgn-c와-cuda를-사용하여-처음부터-llm-추론-엔진-만들기)
 
+
+- C로 구현한 머신 러닝
+  - [250617(외부링크)Machine learning in C was a mistake | Faisal's Devlog ](https://youtu.be/gqSbWMiOuFk?si=vUoYtcBM7z4XFjvT)
+
 <hr />
 
 - [요즘 핫한 기술 1bits집중하자. 엔비디아 float종류 알아보기](#1bit에-집중하자-nvidia도-이제-끝이네)
