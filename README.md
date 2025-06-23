@@ -6,6 +6,11 @@
 
 <hr />
 
+- [머신러닝 전용 TPU(TPU 심층 분석)]()
+
+<hr />
+
+
 - [NVIDIA CUDA 용도별 정리numpy같은 라이브러리들](#cudanvidia의-용도별-정리)
 
 
@@ -115,6 +120,14 @@
 <hr>
 
 - [Compiling CUDA with clang](#compiling-cuda-with-clang)
+
+<hr />
+
+# 머신러닝 전용 TPU(TPU 심층 분석)[|🔝|](#link)
+- **250623[TPU 심층 분석](<https://news.hada.io/topic?id=21604&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- **TPU**는 **구글**이 개발한 대규모 AI 학습 및 추론용 맞춤형 칩으로, GPU와는 다른 **설계 철학**을 가지고 있음  
+- **확장성**과 **에너지 효율성**을 강조하며, 하드웨어(예: **시스템 온칩 구성, 대형 온칩 메모리**)와 소프트웨어(** XLA 컴파일러**)를 함께 설계함  
+- 핵심 구조는 **시스톨릭 어레이**와 파…
 
 <hr />
 
