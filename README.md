@@ -123,6 +123,12 @@
 
 <hr />
 
+
+# **[GPU에 대한 기본 팩트들](<https://news.hada.io/topic?id=21644&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
+- **GPU**는 연산 속도가 메모리 접근 속도보다 월등히 빨라서, **메모리 계층 구조**가 성능의 병목을 일으킴
+- **연산 집약도(Arithmetic Intensity, AI)** 에 따라 연산이 메모리 바운드, 계산 바운드 상태로 구분되며, **A100 GPU**의 임계점은 약 13 FLOPs/Byte임
+- **성능 최적화** 주요 전략으로 연산 합치기(Fusio…
+
 # 머신러닝 전용 TPU(TPU 심층 분석)[|🔝|](#link)
 - **250623[TPU 심층 분석](<https://news.hada.io/topic?id=21604&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
 - **TPU**는 **구글**이 개발한 대규모 AI 학습 및 추론용 맞춤형 칩으로, GPU와는 다른 **설계 철학**을 가지고 있음  
