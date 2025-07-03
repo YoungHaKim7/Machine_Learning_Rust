@@ -4,6 +4,9 @@
   - https://github.com/YoungHaKim7/rust-genai
   - Original Code https://github.com/jeremychone/rust-genai
 
+- CUDA여기에 정리중.
+  - https://github.com/YoungHaKim7/rust_CUDA_training
+
 <hr />
 
 - [머신러닝 전용 TPU(TPU 심층 분석)](#머신러닝-전용-tputpu-심층-분석)
@@ -903,6 +906,10 @@ int main(int argc, char* argv[]) {
 # 최신뉴스 모음
 
 # Rust로 만든 머신러닝 관련 자료 모음
+
+# Porting GPU shaders to Rust 30x faster with AI
+- June 24, 2025 · 15 min read | Christian Legnitto
+  - [(250624)Rust GPU and Rust CUDA maintainer](https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/)
 
 # **[CubeCL - CUDA, ROCm, WGPU를 위한 Rust 기반 GPU 커널](<https://news.hada.io/topic?id=20561&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
 - **CubeCL은** Rust에서 GPU 커널을 작성할 수 있도록 해주는 고성능 멀티플랫폼 언어 확장  
