@@ -99,6 +99,15 @@
 
 <hr />
 
+- [Computer Science 관점에서 머신 러닝 이해하기](https://youtu.be/fTMMsreAqX0?si=RxgDmK-vF8GNTkUh)
+
+
+<hr>
+
+- [Compiling CUDA with clang](#compiling-cuda-with-clang)
+
+<hr />
+
 # 최신뉴스(외부링크)
 - [(250429) NVIDIA’s New AI: Impossible Ray Tracing! Two Minute Papers](https://youtu.be/hUVfAVjsfL4?si=tv1EUzL24Pc0CNH4)
 - [(250414) World Model+ 범위의 확장 | 집중~~~ AI 다음은 뭘지 | AI 개발자가 직접 설명요 | AI의 다음 연구는 무엇이 될까? - AI 대부의 GTC 2025 인터뷰 정리 | Science Vibe](https://youtu.be/Vhzbup5Sghc?si=3HjiKbPI3PFeAqPB)
@@ -117,14 +126,8 @@
 
 <hr />
 
-- [Computer Science 관점에서 머신 러닝 이해하기](https://youtu.be/fTMMsreAqX0?si=RxgDmK-vF8GNTkUh)
-
-
-<hr>
-
-- [Compiling CUDA with clang](#compiling-cuda-with-clang)
-
-<hr />
+# C++ examples for the Vulkan graphics API 
+  - https://github.com/Rust-GPU/VulkanShaderExamples
 
 # 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧[|🔝|](#link)
 - https://github.com/Rust-GPU/rust-gpu
