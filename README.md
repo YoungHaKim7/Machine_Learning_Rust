@@ -119,6 +119,8 @@
 
 # 최신뉴스(외부링크)
 - [(251031) 퀄컴의 미친 역습…엔비디아의 HBM 대신 LPDDR 메모리로 GPU 시장 공략한다 | 사우디 3조 잭팟 터뜨린 진짜 이유 | LPDDR | HBM | 안될공학 - IT 테크 신기술](https://youtu.be/v-JnenbOVDM?si=H995rdDd8LLHaaos)
+- [(251020) DeepSeek-OCR 텍스트를 이미지로 10배 압축 | 중국 GPU 규제가 이렇게 돌아온다... 딥시크의 미친 아이디어, GPU 1/10로 만들다 |안될공학 - IT 테크 신기술](https://youtu.be/S2VCvsE2iOk?si=S_VowMlF9uYL-_G4)
+  - [(251027)기술 |  OCR의 변혁이 오는가?! - DeepSeek-OCR | 디지털인문학 in Korea](https://youtu.be/GLIAbz3tonE?si=pEwb_M077rMzw2AL)
 - [(250429) NVIDIA’s New AI: Impossible Ray Tracing! Two Minute Papers](https://youtu.be/hUVfAVjsfL4?si=tv1EUzL24Pc0CNH4)
 - [(250414) World Model+ 범위의 확장 | 집중~~~ AI 다음은 뭘지 | AI 개발자가 직접 설명요 | AI의 다음 연구는 무엇이 될까? - AI 대부의 GTC 2025 인터뷰 정리 | Science Vibe](https://youtu.be/Vhzbup5Sghc?si=3HjiKbPI3PFeAqPB)
 - [(241215)LLM -> LCM에서 최적화하려는 움직임(하루가 다르게 변한다.AI Trend ㅋ)LCM: The Ultimate Evolution of AI? Large Concept Models | Discover AI](https://youtu.be/y1MG0BCf3UU?si=A70mXdj-uCFEixqE)
