@@ -436,7 +436,7 @@ ollama run mixtral:8x22b
 <hr />
 
 # Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발[|🔝|](#link)
-
+- Kyle Wiggers | 8:48 AM PDT · April 16, 2025
 - Microsoft 연구진이 BitNet b1.58 2B4T라는 초효율적인 AI 모델을 개발했음  
 - 1비트 양자화를 통해 높은 속도와 낮은 메모리 사용량 달성하여 CPU에서도 실행 가능하며 MIT 라이선스로 공개됨  
 - Appl…
