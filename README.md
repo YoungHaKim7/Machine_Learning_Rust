@@ -20,6 +20,7 @@
 <hr />
 
 - 머신러닝 Tutorial
+  - [251108_LLM을 깊이 있게 이해하고 싶다면 이 5권의 무료 책을 추천](#-llm을-깊이-있게-이해하고-싶다면-이-5권의-무료-책을-추천)
   - [머신러닝기초](#머신러닝기초)
     - [여기에 정리중..](./004_Machine_Math_Basic_matrix_cal)
   - [외부링크)뉴럴네트워크라는걸 들어 보셨다면 보셔야 할 영상. - DL1 | 3Blue1Brown 한국어](https://m.youtube.com/watch?si=F9xOKvSqdDcomlq1&v=wrguEHxk_EI&feature=youtu.be)
@@ -132,24 +133,23 @@
 - ▶① . Foundations of Large Language Models (Tong Xiao & Jingbo Zhu, 2025)
   - GPT, BERT, LLaMA 등의 핵심 메커니즘 설명
   - 사전학습, 프롬프팅, 정렬(alignment) 등 이론과 실무 균형
-다운로드
+    - [다운로드](https://arxiv.org/abs/2501.09223)
 - ▶② . Speech and Language Processing (Daniel Jurafsky & James H. Martin)
   - NLP 기초부터 최신 Transformer, LLM까지 포괄
   - Whisper, VALL-E 등 음성 처리 기술 포함
-PDF
+    - [PDF](https://web.stanford.edu/~jurafsky/slp3/)
 - ▶③ . How to Scale Your Model: A Systems View of LLMs on TPUs (Google)
-
-TPU/GPU에서 LLM 학습/추론 최적화 실무 가이드
-병렬 처리 전략과 성능 병목 해결, LLaMA 훈련 사례
-링크
+  - TPU/GPU에서 LLM 학습/추론 최적화 실무 가이드
+  - 병렬 처리 전략과 성능 병목 해결, LLaMA 훈련 사례
+    - [링크](https://jax-ml.github.io/scaling-book/roofline/)
 - ▶ ④. Understanding LLMs: Towards Rigorous and Targeted Interpretability (Jenny Kunz 박사논문)
   - 프로빙 분류기와 자기 합리화로 모델 결정 과정 분석
   - 투명하고 책임 있는 AI 시스템 설계에 유용
-PDF
+    - [PDF](https://liu.diva-portal.org/smash/get/diva2:1848043/FULLTEXT01.pdf)
 - ▶ ⑤. Large Language Models in Cybersecurity (Springer)
   - LLM 보안 위협(정보 유출, 피싱 등) 및 대응 전략
   - 프라이버시 보호 훈련, 레드팀링, 법적 이슈 다룸
-PDF
+    - [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-54827-7.pdf)
 - https://www.kdnuggets.com/the-5-free-must-read-books-for-every-llm-engineer
 
 <hr />
