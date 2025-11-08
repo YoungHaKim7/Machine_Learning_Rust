@@ -16,6 +16,10 @@
 
 - [NVIDIA CUDA 용도별 정리numpy같은 라이브러리들](#cudanvidia의-용도별-정리)
 
+<hr />
+
+- World Model자료 모음(LLM끝나고 다음 최종목적지)
+  - [(250414) World Model+ 범위의 확장 | 집중~~~ AI 다음은 뭘지 | AI 개발자가 직접 설명요 | AI의 다음 연구는 무엇이 될까? - AI 대부의 GTC 2025 인터뷰 정리 | Science Vibe](https://youtu.be/Vhzbup5Sghc?si=3HjiKbPI3PFeAqPB)
 
 <hr />
 
@@ -53,7 +57,11 @@
 - [(외부링크) 250320_What Are AI Agents Really About? | ByteByteGo](https://youtu.be/eHEHE2fpnWQ?si=4pJUQg-3NOMKKeEE)
 - [(외부링크) 250219 What is MCP? Integrate AI Agents with Databases & APIs | IBM Technology](https://youtu.be/eur8dUO9mvE?si=AN-lYJ5Y6mzJVSgG)
 
-- [250419_Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발](#microsoft-cpu에서-실행가능한-초고효율-ai-모델-bitnet-개발)
+<hr />
+
+- 1 Bit관련 효율 극강자료 모음
+  - [250419_Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발](#microsoft-cpu에서-실행가능한-초고효율-ai-모델-bitnet-개발)
+  - [(240301)GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터 (arxiv.org)](https://news.hada.io/topic?id=13573)
 
 <hr />
 
