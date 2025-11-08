@@ -126,6 +126,34 @@
 
 <hr />
 
+# ✴ LLM을 깊이 있게 이해하고 싶다면 이 5권의 무료 책을 추천[|🔝|](#link)
+- https://news.hada.io/topic?id=24204
+
+- ▶① . Foundations of Large Language Models (Tong Xiao & Jingbo Zhu, 2025)
+  - GPT, BERT, LLaMA 등의 핵심 메커니즘 설명
+  - 사전학습, 프롬프팅, 정렬(alignment) 등 이론과 실무 균형
+다운로드
+- ▶② . Speech and Language Processing (Daniel Jurafsky & James H. Martin)
+  - NLP 기초부터 최신 Transformer, LLM까지 포괄
+  - Whisper, VALL-E 등 음성 처리 기술 포함
+PDF
+- ▶③ . How to Scale Your Model: A Systems View of LLMs on TPUs (Google)
+
+TPU/GPU에서 LLM 학습/추론 최적화 실무 가이드
+병렬 처리 전략과 성능 병목 해결, LLaMA 훈련 사례
+링크
+- ▶ ④. Understanding LLMs: Towards Rigorous and Targeted Interpretability (Jenny Kunz 박사논문)
+  - 프로빙 분류기와 자기 합리화로 모델 결정 과정 분석
+  - 투명하고 책임 있는 AI 시스템 설계에 유용
+PDF
+- ▶ ⑤. Large Language Models in Cybersecurity (Springer)
+  - LLM 보안 위협(정보 유출, 피싱 등) 및 대응 전략
+  - 프라이버시 보호 훈련, 레드팀링, 법적 이슈 다룸
+PDF
+- https://www.kdnuggets.com/the-5-free-must-read-books-for-every-llm-engineer
+
+<hr />
+
 # C++ examples for the Vulkan graphics API 
   - https://github.com/Rust-GPU/VulkanShaderExamples
 
